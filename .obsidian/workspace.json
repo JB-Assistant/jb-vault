@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "f1af78d7a4b455db",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa0624b52d570b82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8354b973b15cdff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "You Can Automate Anything - Defileo 2026-04-09.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "You Can Automate Anything - Defileo 2026-04-09"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f9209ba01f86caae",
+    "type": "split",
+    "children": [
+      {
+        "id": "063a42c351dc96d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f983fa418e3bf23",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "59c1af2b9bd8de68",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "990276a16efa30d6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "295f3395ee29768f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d46441d2c26695f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d972223cb07b6759",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "You Can Automate Anything - Defileo 2026-04-09.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for You Can Automate Anything - Defileo 2026-04-09"
+            }
+          },
+          {
+            "id": "f66d2fb195d4c507",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "You Can Automate Anything - Defileo 2026-04-09.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from You Can Automate Anything - Defileo 2026-04-09"
+            }
+          },
+          {
+            "id": "faa54d6ef8e2a7b2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fb25f942b05c861e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4676a5306b1ccedd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "You Can Automate Anything - Defileo 2026-04-09.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of You Can Automate Anything - Defileo 2026-04-09"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b8354b973b15cdff",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "Sync Test - 2026-04-09 02:31.md",
+    "Launching Claude Managed Agents - Lance Martin 2026-04-09.md",
+    "How to Set Up Claude Cowork - Ruben Hassid 2026-04-09.md",
+    "How to Get 10x More from AI Agents - Startup Ideas Podcast 2026-04-09.md",
+    "Claude Managed Agents - Nick Spisak.md",
+    "Claude Code + Obsidian Ultimate Guide - AI Edge 2026-04-09.md",
+    "Bayes Theorem - X Article 2026-04-09.md",
+    "Auto-Push Test - 2026-04-09 02:53.md"
+  ]
+}

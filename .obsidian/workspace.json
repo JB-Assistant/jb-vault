@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XArticles/Claude Managed Agents - Nick Spisak.md",
+                "file": "XArticles/Karpathy Personal Knowledge Base with Claude Code - vibemarketer 2026-04-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Claude Managed Agents - Nick Spisak"
+              "title": "Karpathy Personal Knowledge Base with Claude Code - vibemarketer 2026-04-09"
             }
           }
         ]
@@ -184,11 +184,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "a510503401c6b8cd",
+  "active": "2f983fa418e3bf23",
   "lastOpenFiles": [
-    "Karpathy Personal Knowledge Base with Claude Code - vibemarketer 2026-04-09.md",
-    "Auto-Push Test - 2026-04-09 02:53.md",
     "XArticles/Claude Managed Agents - Nick Spisak.md",
+    "XArticles/Karpathy Personal Knowledge Base with Claude Code - vibemarketer 2026-04-09.md",
+    "Auto-Push Test - 2026-04-09 02:53.md",
     "Sync Test - 2026-04-09 02:31.md",
     "XArticles/Claude Code + Obsidian Ultimate Guide - AI Edge 2026-04-09.md",
     "XArticles/Bayes Theorem - X Article 2026-04-09.md",

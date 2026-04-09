@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f1474d097f881d59",
+        "id": "f5f7c689a033339b",
         "type": "tabs",
         "children": [
           {
-            "id": "a510503401c6b8cd",
+            "id": "c56719bab93a2a63",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "XArticles/Karpathy Personal Knowledge Base with Claude Code - vibemarketer 2026-04-09.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Karpathy Personal Knowledge Base with Claude Code - vibemarketer 2026-04-09"
+              "title": "New tab"
             }
           }
         ]
@@ -164,8 +160,19 @@
               "icon": "lucide-list",
               "title": "Outline of You Can Automate Anything - Defileo 2026-04-09"
             }
+          },
+          {
+            "id": "3121fa7d1eab0c18",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -186,15 +193,18 @@
   },
   "active": "2f983fa418e3bf23",
   "lastOpenFiles": [
-    "XArticles/Claude Managed Agents - Nick Spisak.md",
+    "Untitled.canvas",
+    "2026-04-09.md",
+    "Welcome.md",
+    "XArticles/How to Set Up Claude Managed Agents - Sharbel 2026-04-09.md",
     "XArticles/Karpathy Personal Knowledge Base with Claude Code - vibemarketer 2026-04-09.md",
+    "XArticles/Claude Managed Agents - Nick Spisak.md",
     "Auto-Push Test - 2026-04-09 02:53.md",
     "Sync Test - 2026-04-09 02:31.md",
     "XArticles/Claude Code + Obsidian Ultimate Guide - AI Edge 2026-04-09.md",
     "XArticles/Bayes Theorem - X Article 2026-04-09.md",
     "XArticles/You Can Automate Anything - Defileo 2026-04-09.md",
     "XArticles",
-    "Welcome.md",
     "XArticles/Launching Claude Managed Agents - Lance Martin 2026-04-09.md",
     "XArticles/How to Set Up Claude Cowork - Ruben Hassid 2026-04-09.md",
     "XArticles/How to Get 10x More from AI Agents - Startup Ideas Podcast 2026-04-09.md"

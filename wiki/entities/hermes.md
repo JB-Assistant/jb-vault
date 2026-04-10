@@ -19,10 +19,13 @@ The primary conversational agent connected to the user via Telegram. Running on 
 - **Prefers:** concise responses
 
 ## Shared Memory Architecture
-Hermes and OpenClaw share the 4-layer memory system:
-- **Layer 2:** Agents.md and Soul.md — both agents read/write on checkpoints
-- **Layer 3:** Obsidian vault synced via Syncthing or git
-- Both follow checkpoint cadence: every 3-5 tool calls
+Hermes and OpenClaw share the [[4-layer-memory-architecture]] system:
+- **Layer 2 files** (at vault root): `/home/hermes/JB Vault/Soul.md` and `/home/hermes/JB Vault/Agents.md`
+- Both agents read/write Layer 2 on checkpoints (every 3-5 tool calls)
+- Layer 3 vault (`/home/hermes/JB Vault/`) synced to both machines via git
+- [[multi-agent-shared-vault]] pattern — same Layer 2 files, shared project state
+
+**Checkpoint cadence:** Every 3-5 tool calls. Write to Soul.md + Agents.md at task start, task end, session end.
 
 ## Tools & Integrations
 - Reads/writes markdown files to JB Vault

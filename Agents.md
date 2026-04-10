@@ -53,17 +53,15 @@ last_updated: 2026-04-09
 
 ## Pending Tasks
 
-- [ ] Confirm OpenClaw can read/write Layer 2 files
-- [ ] Set up Syncthing or git-based sync for Layer 2 between MacMini and VPS
-- [ ] Test that Hermès reads Soul.md/Agents.md on session start
-- [ ] Add checkpoint writing to Hermès session workflow
-- [ ] Verify iPhone access to PDF TTS app
+- [ ] Confirm OpenClaw can read/write Layer 2 files — **scheduled for tomorrow**
+- [ ] Set up Syncthing or git-based sync for Layer 2 between MacMini and VPS — **OpenClaw setup first**
+- [ ] Test that Hermès reads Soul.md/Agents.md on session start — **verified, working**
+- [ ] Add checkpoint writing to Hermès session workflow — **active, in progress**
+- [ ] Verify iPhone access to PDF TTS app — **pending**
 
 ## Checkpoint Log
 
-*Last write by Hermes: 2026-04-09 (this session — initial Layer 2 creation)*
-
-*When OpenClaw writes: it appends here with timestamp so Hermes knows it was active*
+- **2026-04-09 | Hermes** — Layer 2 files created: Soul.md + Agents.md. OpenClaw setup deferred to tomorrow.
 
 ---
 

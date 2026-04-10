@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/index.md",
+                "file": "wiki/raw/articles/How to Set Up Claude Managed Agents - Sharbel 2026-04-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "How to Set Up Claude Managed Agents - Sharbel 2026-04-09"
             }
           }
         ]
@@ -195,22 +195,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "2f983fa418e3bf23",
+  "active": "c56719bab93a2a63",
   "lastOpenFiles": [
-    "wiki/raw/papers/LLM Knowledge Bases - Andrej Karpathy.md",
-    "wiki/raw/papers",
+    "wiki/raw/articles/Claude Managed Agents How to Deploy your First One Today - Nick Spisak 2026-04-09.md",
     "wiki/raw/articles/Claude Code + Obsidian Ultimate Guide Build an AI Second Brain - AI Edge 2026-04-09.md",
-    "wiki/entities/karpathy.md",
-    "wiki/entities/aiedge.md",
-    "wiki/concepts/karpathy-llm-wiki.md",
+    "wiki/raw/articles/Ultimate Beginners Guide to Claude Managed Agents - Corey Ganem 2026-04-09.md",
+    "wiki/entities/openclaw.md",
     "Soul.md",
     "LLM Knowledge Bases - Andrej Karpathy.md",
     "Claude Code + Obsidian Ultimate Guide Build an AI Second Brain - AI Edge 2026-04-09.md",
+    "Article - Anthropic sees the moat - Jaya Gupta 2026-04-10.md",
+    "Article - AI Freelancing at 200 per hour - Eng Khairallah 2026-04-10.md",
     "Agents.md",
-    "wiki/raw/articles/Ultimate Beginners Guide to Claude Managed Agents - Corey Ganem 2026-04-09.md",
+    "wiki/index.md",
+    "agent-shared/README.md",
+    "agent-shared",
+    "wiki/raw/papers/LLM Knowledge Bases - Andrej Karpathy.md",
+    "wiki/raw/papers",
+    "wiki/entities/karpathy.md",
+    "wiki/entities/aiedge.md",
+    "wiki/concepts/karpathy-llm-wiki.md",
     "wiki/raw/articles/How to Set Up Claude Managed Agents - Sharbel 2026-04-09.md",
-    "wiki/raw/articles/Claude Managed Agents How to Deploy your First One Today - Nick Spisak 2026-04-09.md",
-    "wiki/entities/openclaw.md",
     "wiki/entities/hermes.md",
     "wiki/entities/claude-managed-agents.md",
     "wiki/entities/alex-finn.md",
@@ -220,16 +225,12 @@
     "wiki/concepts/multi-agent-shared-vault.md",
     "wiki/raw",
     "wiki/log.md",
-    "wiki/index.md",
     "wiki/entities",
     "wiki/concepts",
     "wiki/SCHEMA.md",
     "wiki",
     "XArticles/Claude Managed Agents How to Deploy your First One Today - Nick Spisak 2026-04-09.md",
-    "XArticles/Ultimate Beginners Guide to Claude Managed Agents - Corey Ganem 2026-04-09.md",
     "Untitled.canvas",
-    "2026-04-09.md",
-    "Welcome.md",
     "XArticles"
   ]
 }

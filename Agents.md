@@ -45,11 +45,13 @@ last_updated: 2026-04-09
 ## Today's Log
 
 ### 2026-04-09
-- **10:00 AM:** Discussed 4-layer memory architecture with user
-- **10:15 AM:** Created wiki/ inside JB Vault — 10 pages covering Claude Managed Agents, Karpathy LLM Wiki, OpenClaw, Hermes, etc.
-- **10:30 AM:** Started building Layer 2 files (Soul.md, Agents.md)
-- **Article saves:** 5 Claude Managed Agents articles pushed to vault (Sharbel, Corey Ganem, Nick Spisak, AI Edge, Karpathy)
-- **Next:** Build checkpointing into session workflow (every 3-5 tool calls)
+- **Morning:** User completed Hermes setup (April 9)
+- **Article workflow:** Established — send link/text, I save to vault + summary + takeaways + Hermes angle flag
+- **Wiki built:** 10 pages covering Claude Managed Agents, Karpathy LLM Wiki, 4-layer memory, OpenClaw, Hermes, plain-text-persistence, multi-agent-shared-vault, Alex Finn, AI Edge, Andrej Karpathy
+- **Layer 2 created:** Soul.md + Agents.md at vault root — Hermes's private Layer 2
+- **Layer 3 (shared vault):** wiki/ folder inside JB Vault, synced via git
+- **OpenClaw setup:** Deferred to tomorrow — user will work on MacMini side
+- **Session end:** 2026-04-09 late
 
 ## Pending Tasks
 

@@ -18,9 +18,11 @@ A layered approach to agent memory that combines fast built-in context with pers
 The agent's core identity, boundaries, and immediate context. Short, fixed, loaded every session.
 
 ### Layer 2: Agents.md + Soul.md
-Shared state files that both agents (Hermes + OpenClaw) read and write on checkpoints. Contains:
-- **Soul.md:** Agent identity, user profile, long-term facts, communication style
-- **Agents.md:** Active projects, pending tasks, today's log, shared context
+Shared state files that both agents (Hermes + OpenClaw) read and write on checkpoints. Located at vault root:
+- **Soul.md:** Agent identity, user profile, long-term facts, communication style, technical context
+- **Agents.md:** Active projects, session state, today's log, pending tasks, checkpoint log
+
+Both files are at `/home/hermes/JB Vault/Soul.md` and `/home/hermes/JB Vault/Agents.md` and sync via git with the rest of the vault.
 
 ### Layer 3: Obsidian Vault
 Persistent markdown file storage. Daily logs, project context, articles, research. Synced between machines via git or Syncthing. Wikilinks and folder structure act as a natural knowledge graph — LLMs navigate Markdown surprisingly well without vector embeddings.

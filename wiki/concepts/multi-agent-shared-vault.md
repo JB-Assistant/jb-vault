@@ -14,9 +14,13 @@ Pattern where multiple AI agents (e.g., OpenClaw + Hermes) share the same Obsidi
 
 ## Architecture
 ```
-[OpenClaw on MacMini] ←→ [Layer 2: Agents.md, Soul.md] ←→ [Layer 3: Vault]
-[Hermes on VPS/Linux] ←→ [Layer 2: Agents.md, Soul.md] ←→ [Layer 3: Vault]
+[OpenClaw on MacMini] ←→ [Layer 2: Soul.md, Agents.md] ←→ [Layer 3: Vault/]
+[Hermes on VPS/Linux] ←→ [Layer 2: Soul.md, Agents.md] ←→ [Layer 3: Vault/]
 ```
+
+**Layer 2 files (actual):**
+- `/home/hermes/JB Vault/Soul.md` — identity, user profile, long-term memory, technical context
+- `/home/hermes/JB Vault/Agents.md` — project state, session log, pending tasks, checkpoint log
 
 Both agents:
 - Read Layer 2 on session start

@@ -195,8 +195,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "c56719bab93a2a63",
+  "active": "2f983fa418e3bf23",
   "lastOpenFiles": [
+    "wiki/raw/papers/LLM Knowledge Bases - Andrej Karpathy.md",
+    "wiki/raw/papers",
+    "wiki/raw/articles/Claude Code + Obsidian Ultimate Guide Build an AI Second Brain - AI Edge 2026-04-09.md",
+    "wiki/entities/karpathy.md",
+    "wiki/entities/aiedge.md",
+    "wiki/concepts/karpathy-llm-wiki.md",
+    "Soul.md",
+    "LLM Knowledge Bases - Andrej Karpathy.md",
+    "Claude Code + Obsidian Ultimate Guide Build an AI Second Brain - AI Edge 2026-04-09.md",
+    "Agents.md",
     "wiki/raw/articles/Ultimate Beginners Guide to Claude Managed Agents - Corey Ganem 2026-04-09.md",
     "wiki/raw/articles/How to Set Up Claude Managed Agents - Sharbel 2026-04-09.md",
     "wiki/raw/articles/Claude Managed Agents How to Deploy your First One Today - Nick Spisak 2026-04-09.md",
@@ -220,15 +230,6 @@
     "Untitled.canvas",
     "2026-04-09.md",
     "Welcome.md",
-    "XArticles/How to Set Up Claude Managed Agents - Sharbel 2026-04-09.md",
-    "XArticles/Karpathy Personal Knowledge Base with Claude Code - vibemarketer 2026-04-09.md",
-    "XArticles/Claude Managed Agents - Nick Spisak.md",
-    "Auto-Push Test - 2026-04-09 02:53.md",
-    "Sync Test - 2026-04-09 02:31.md",
-    "XArticles/Claude Code + Obsidian Ultimate Guide - AI Edge 2026-04-09.md",
-    "XArticles/Bayes Theorem - X Article 2026-04-09.md",
-    "XArticles/You Can Automate Anything - Defileo 2026-04-09.md",
-    "XArticles",
-    "XArticles/Launching Claude Managed Agents - Lance Martin 2026-04-09.md"
+    "XArticles"
   ]
 }

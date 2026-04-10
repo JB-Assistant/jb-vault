@@ -11,10 +11,14 @@
             "id": "c56719bab93a2a63",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "wiki/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -191,10 +195,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "2f983fa418e3bf23",
+  "active": "c56719bab93a2a63",
   "lastOpenFiles": [
-    "Claude Managed Agents How to Deploy your First One Today - Nick Spisak 2026-04-09.md",
-    "Ultimate Beginners Guide to Claude Managed Agents - Corey Ganem 2026-04-09.md",
+    "wiki/raw/articles/Ultimate Beginners Guide to Claude Managed Agents - Corey Ganem 2026-04-09.md",
+    "wiki/raw/articles/How to Set Up Claude Managed Agents - Sharbel 2026-04-09.md",
+    "wiki/raw/articles/Claude Managed Agents How to Deploy your First One Today - Nick Spisak 2026-04-09.md",
+    "wiki/entities/openclaw.md",
+    "wiki/entities/hermes.md",
+    "wiki/entities/claude-managed-agents.md",
+    "wiki/entities/alex-finn.md",
+    "wiki/concepts/4-layer-memory-architecture.md",
+    "wiki/raw/articles",
+    "wiki/concepts/plain-text-persistence.md",
+    "wiki/concepts/multi-agent-shared-vault.md",
+    "wiki/raw",
+    "wiki/log.md",
+    "wiki/index.md",
+    "wiki/entities",
+    "wiki/concepts",
+    "wiki/SCHEMA.md",
+    "wiki",
+    "XArticles/Claude Managed Agents How to Deploy your First One Today - Nick Spisak 2026-04-09.md",
+    "XArticles/Ultimate Beginners Guide to Claude Managed Agents - Corey Ganem 2026-04-09.md",
     "Untitled.canvas",
     "2026-04-09.md",
     "Welcome.md",
@@ -207,8 +229,6 @@
     "XArticles/Bayes Theorem - X Article 2026-04-09.md",
     "XArticles/You Can Automate Anything - Defileo 2026-04-09.md",
     "XArticles",
-    "XArticles/Launching Claude Managed Agents - Lance Martin 2026-04-09.md",
-    "XArticles/How to Set Up Claude Cowork - Ruben Hassid 2026-04-09.md",
-    "XArticles/How to Get 10x More from AI Agents - Startup Ideas Podcast 2026-04-09.md"
+    "XArticles/Launching Claude Managed Agents - Lance Martin 2026-04-09.md"
   ]
 }

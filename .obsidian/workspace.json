@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f5f7c689a033339b",
+        "id": "6163e0e037692560",
         "type": "tabs",
         "children": [
           {
-            "id": "c56719bab93a2a63",
+            "id": "0db45d54cddd07e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/raw/articles/How to Set Up Claude Managed Agents - Sharbel 2026-04-09.md",
+                "file": "Article - Hermes Agent Clearly Explained - Nick Spisak 2026-04-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to Set Up Claude Managed Agents - Sharbel 2026-04-09"
+              "title": "Article - Hermes Agent Clearly Explained - Nick Spisak 2026-04-10"
             }
           }
         ]
@@ -195,17 +195,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "c56719bab93a2a63",
+  "active": "0db45d54cddd07e6",
   "lastOpenFiles": [
+    "Article - What Hermes Agent Can Do - Blocmates 2026-04-10.md",
+    "XArticles/Article - AI Freelancing at 200 per hour - Eng Khairallah 2026-04-10.md",
+    "Article - Hermes Agent Clearly Explained - Nick Spisak 2026-04-10.md",
+    "XArticles/Article - Claude Obsidian Second Brain - Defileo 2026-04-10.md",
+    "XArticles/Article - Anthropic sees the moat - Jaya Gupta 2026-04-10.md",
+    "XArticles/LLM Knowledge Bases - Andrej Karpathy.md",
+    "XArticles/Claude Code + Obsidian Ultimate Guide Build an AI Second Brain - AI Edge 2026-04-09.md",
+    "XArticles/Claude Managed Agents - Nick Spisak.md",
+    "XArticles/Claude Code + Obsidian Ultimate Guide - AI Edge 2026-04-09.md",
+    "wiki/raw/articles/How to Set Up Claude Managed Agents - Sharbel 2026-04-09.md",
     "wiki/raw/articles/Claude Managed Agents How to Deploy your First One Today - Nick Spisak 2026-04-09.md",
     "wiki/raw/articles/Claude Code + Obsidian Ultimate Guide Build an AI Second Brain - AI Edge 2026-04-09.md",
     "wiki/raw/articles/Ultimate Beginners Guide to Claude Managed Agents - Corey Ganem 2026-04-09.md",
     "wiki/entities/openclaw.md",
     "Soul.md",
-    "LLM Knowledge Bases - Andrej Karpathy.md",
-    "Claude Code + Obsidian Ultimate Guide Build an AI Second Brain - AI Edge 2026-04-09.md",
-    "Article - Anthropic sees the moat - Jaya Gupta 2026-04-10.md",
-    "Article - AI Freelancing at 200 per hour - Eng Khairallah 2026-04-10.md",
     "Agents.md",
     "wiki/index.md",
     "agent-shared/README.md",
@@ -215,21 +221,15 @@
     "wiki/entities/karpathy.md",
     "wiki/entities/aiedge.md",
     "wiki/concepts/karpathy-llm-wiki.md",
-    "wiki/raw/articles/How to Set Up Claude Managed Agents - Sharbel 2026-04-09.md",
     "wiki/entities/hermes.md",
     "wiki/entities/claude-managed-agents.md",
     "wiki/entities/alex-finn.md",
     "wiki/concepts/4-layer-memory-architecture.md",
     "wiki/raw/articles",
-    "wiki/concepts/plain-text-persistence.md",
-    "wiki/concepts/multi-agent-shared-vault.md",
     "wiki/raw",
-    "wiki/log.md",
     "wiki/entities",
     "wiki/concepts",
-    "wiki/SCHEMA.md",
     "wiki",
-    "XArticles/Claude Managed Agents How to Deploy your First One Today - Nick Spisak 2026-04-09.md",
     "Untitled.canvas",
     "XArticles"
   ]

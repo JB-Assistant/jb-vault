@@ -8,10 +8,17 @@
 ## [2026-04-09] create | Wiki initialized
 - Domain: AI Agent Memory Systems
 - Structure created with SCHEMA.md, index.md, log.md
-- Initial sources to ingest: Claude Managed Agents articles (Sharbel, Corey Ganem, Nick Spisak)
+- 4 directories: entities/, concepts/, comparisons/, queries/ + raw/{articles,papers,transcripts,assets}/
 
-## [2026-04-09] ingest | Claude Managed Agents sources
-- Raw sources copied: sharbel, corey-ganem, nick-spisak articles from JB Vault
+## [2026-04-09] ingest | Claude Managed Agents articles (batch 1)
+- Raw sources copied from JB Vault: sharbel, corey-ganem, nick-spisak
 - Pages created: claude-managed-agents, 4-layer-memory-architecture, openclaw, hermes, plain-text-persistence, multi-agent-shared-vault, alex-finn
-- Index updated: 7 total pages
+- 7 wiki pages, index updated
+
+## [2026-04-09] ingest | AI Edge + Karpathy LLM Wiki (batch 2)
+- Raw sources added: aiedge article, karpathy original "LLM Knowledge Bases" Gist
+- karpathy.md entity created
+- karpathy-llm-wiki.md enriched with full 5-part workflow (Ingest, IDE, Q&A, Output, Linting, Extra Tools)
+- karpathy-llm-wiki.md sources: sharbel + aiedge + karpathy original
+- Index updated: 10 total pages
 

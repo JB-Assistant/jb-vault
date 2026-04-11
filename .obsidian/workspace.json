@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/The Anatomy of an Agent Harness.md",
+                "file": "Clippings/10 Slash Commands to Use Claude Code like Boris Cherny Does (with a bonus)!.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Anatomy of an Agent Harness"
+              "title": "10 Slash Commands to Use Claude Code like Boris Cherny Does (with a bonus)!"
             }
           }
         ]
@@ -197,8 +197,9 @@
   },
   "active": "0db45d54cddd07e6",
   "lastOpenFiles": [
-    "Clippings/How to Become an AI Freelancer Charging $200hour This Year  — The Complete Guide..md",
     "Clippings/The Anatomy of an Agent Harness.md",
+    "Clippings/10 Slash Commands to Use Claude Code like Boris Cherny Does (with a bonus)!.md",
+    "Clippings/How to Become an AI Freelancer Charging $200hour This Year  — The Complete Guide..md",
     "XArticles/The File System Is the New Database How I Built a Personal OS for AI Agents.md",
     "Article - Second Brain for AI Agent - Pawel Huryn 2026-04-10.md",
     "XArticles/Article - How To Build Own Content Engine? (FULL COURSE).md",
@@ -223,7 +224,6 @@
     "Soul.md",
     "Agents.md",
     "wiki/index.md",
-    "agent-shared/README.md",
     "agent-shared",
     "wiki/raw/papers",
     "wiki/raw/articles",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Article - Hermes Agent Clearly Explained - Nick Spisak 2026-04-10.md",
+                "file": "XArticles/Article - I Built an AI Agent That Chooses Its Own Projects and Ships Them. Here’s the Setup (Hermes + OC).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Article - Hermes Agent Clearly Explained - Nick Spisak 2026-04-10"
+              "title": "Article - I Built an AI Agent That Chooses Its Own Projects and Ships Them. Here’s the Setup (Hermes + OC)"
             }
           }
         ]
@@ -197,9 +197,12 @@
   },
   "active": "0db45d54cddd07e6",
   "lastOpenFiles": [
-    "Article - What Hermes Agent Can Do - Blocmates 2026-04-10.md",
+    "XArticles/Article - How To Build Own Content Engine? (FULL COURSE).md",
+    "XArticles/Article - I Built an AI Agent That Chooses Its Own Projects and Ships Them. Here’s the Setup (Hermes + OC).md",
+    "XArticles/Article - What Hermes Agent Can Do - Blocmates 2026-04-10.md",
+    "XArticles/Article - Hermes Agent Clearly Explained - Nick Spisak 2026-04-10.md",
+    "Clippings",
     "XArticles/Article - AI Freelancing at 200 per hour - Eng Khairallah 2026-04-10.md",
-    "Article - Hermes Agent Clearly Explained - Nick Spisak 2026-04-10.md",
     "XArticles/Article - Claude Obsidian Second Brain - Defileo 2026-04-10.md",
     "XArticles/Article - Anthropic sees the moat - Jaya Gupta 2026-04-10.md",
     "XArticles/LLM Knowledge Bases - Andrej Karpathy.md",
@@ -223,8 +226,6 @@
     "wiki/concepts/karpathy-llm-wiki.md",
     "wiki/entities/hermes.md",
     "wiki/entities/claude-managed-agents.md",
-    "wiki/entities/alex-finn.md",
-    "wiki/concepts/4-layer-memory-architecture.md",
     "wiki/raw/articles",
     "wiki/raw",
     "wiki/entities",

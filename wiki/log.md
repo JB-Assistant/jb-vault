@@ -27,3 +27,8 @@
 - vibemarketer.md entity created (J.B. — AI agent educator on X)
 - Index updated: 11 total pages
 
+## [2026-04-13] ingest | Akshay Pachaar article on agent memory systems
+- Raw source added: Article - Build Agents that never forget - Akshay 2026-04-13
+- akshay-pachaar.md entity created (Akshay 🚀 — AI agent educator, memory systems focus)
+- Index updated: 12 total pages
+

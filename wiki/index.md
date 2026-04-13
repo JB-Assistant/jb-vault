@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-04-09 | Total pages: 10
+> Last updated: 2026-04-13 | Total pages: 11
 
 ## Entities
 
@@ -12,6 +12,7 @@
 - [[alex-finn]] — YouTuber who popularized the OpenClaw + Obsidian memory architecture
 - [[aiedge]] — AI content creator, practical beginner guide for Claude Code + Obsidian second brain
 - [[karpathy]] — AI researcher who authored the LLM Wiki pattern (karpathy-llm-wiki)
+- [[vibemarketer]] — AI agent educator on X, posts practical guides on Claude Code and managed agents
 
 ## Concepts
 

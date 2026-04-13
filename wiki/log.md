@@ -22,3 +22,8 @@
 - karpathy-llm-wiki.md sources: sharbel + aiedge + karpathy original
 - Index updated: 10 total pages
 
+## [2026-04-13] ingest | VibeMarketer article on Claude Managed Agents
+- Raw source added: Article - Everything you need to know about Claude Managed Agents - J.B. 2026-04-13
+- vibemarketer.md entity created (J.B. — AI agent educator on X)
+- Index updated: 11 total pages
+

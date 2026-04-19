@@ -5,6 +5,7 @@
 > Last updated: 2026-04-13 | Total pages: 12
 
 ## Entities
+- [[simon-willison]] — Simon Willison (simonwillison.net) — LLM/blogger
 
 - [[claude-managed-agents]] — Anthropic's hosted agent platform (public beta, April 2026)
 - [[openclaw]] — AI agent running on user's MacMini, shares vault with Hermes

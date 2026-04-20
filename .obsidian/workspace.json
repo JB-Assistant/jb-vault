@@ -197,6 +197,9 @@
   },
   "active": "261b4281719d84fc",
   "lastOpenFiles": [
+    "Research/Hermes Multi-Profile Team Guide.md",
+    "Research/Hermes Use Cases & Lessons - 0xJeff.md",
+    "Research",
     "wiki/raw/articles/Changes in the system prompt between Claude Opus 4.6 and 4.7 - Simon Willison 2026-04-18.md",
     "wiki/entities/simon-willison.md",
     "Changes in the system prompt between Claude Opus 4.6 and 4.7 - Simon Willison 2026-04-18.md",
@@ -221,8 +224,6 @@
     "Products/AI-Agent-Playbook-Skill-Pack/Context-Files/founder/preferences.md",
     "Products/AI-Agent-Playbook-Skill-Pack/Context-Files/founder/about-me.md",
     "Products/AI-Agent-Playbook-Skill-Pack/Context-Files/consultant/voice.md",
-    "Products/AI-Agent-Playbook-Skill-Pack/Context-Files/consultant/preferences.md",
-    "Products/AI-Agent-Playbook-Skill-Pack/Context-Files/consultant/about-me.md",
     "Products/AI-Agent-Playbook-Skill-Pack/Context-Files/marketer",
     "Products/AI-Agent-Playbook-Skill-Pack/Context-Files/developer",
     "Products/AI-Agent-Playbook-Skill-Pack/Context-Files/founder",
@@ -232,7 +233,6 @@
     "Products/JunaidBurke-X-Rebrand",
     "Products/AI-Agent-Playbook-Skill-Pack",
     "Products",
-    "Inbox",
     "Untitled.canvas"
   ]
 }

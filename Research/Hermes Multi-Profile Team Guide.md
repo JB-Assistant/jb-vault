@@ -1,5 +1,6 @@
 # The Ultimate Hermes Guide
-**Source:** [Nyk 🌱 @nyk_builderz](https://x.com/nyk_builderz/status/2044472463279710344) | 1,211 bookmarks, 33K views
+**Source:** [Nyk 🌱 @nyk_builderz](https://x.com/nyk_builderz/status/2044472463279710344) | 1,227 bookmarks, 34.5K views
+**Date:** April 15, 2026
 
 > "I ran one hermes agent as researcher, writer, coder, and orchestrator for 14 days on a single claude-sonnet-4.6 profile before everything blurred into the same voice. Most operators blame the prompt when this happens, but it is not prompting and not the model - it is one agent carrying five roles on shared memory, and everyone says 'better prompts' while nobody talks about the Hermes primitive that actually fixes it: isolated profiles."
 
@@ -27,7 +28,7 @@ That matters because multi-agent setups fail when everything shares the same mem
 
 ## The 4-Role Team
 
-Four profiles, mapped to real functional work:
+Credit to @neoaiforecast for naming the canonical split. Four profiles, mapped to real functional work:
 
 | Profile | Role | Specialty |
 |---------|------|-----------|
@@ -41,6 +42,8 @@ This split works because it mirrors real work. The orchestrator never has to be 
 ---
 
 ## The 7-Step Build
+
+The table-stakes sequence. If you have already run this from @neoaiforecast's post, skip to the operator layer.
 
 ### Step 1 — Start from a Working Hermes
 Make sure your base Hermes installation is healthy before cloning. Model provider configured, auth working, normal session usable. You clone from this base, so anything broken here breaks four times.
@@ -78,7 +81,7 @@ This is the step that turns profiles into agents. Edit each `SOUL.md` to carry a
 - **Identity stays stable; project context rotates.**
 
 ### Step 6 — Add a Team Reference File
-One shared file that documents the roster and how profiles hand off to each other. (Template at bottom of this guide.)
+One shared file that documents the roster and how profiles hand off to each other. Template at the bottom of this guide.
 
 ### Step 7 — Run Profiles Separately
 Each runs in an isolated state. Alan does not inherit Mira's drafts. Turing does not inherit Alan's research sessions. The benefit only shows up if you actually use them separately.
@@ -87,29 +90,173 @@ Each runs in an isolated state. Alan does not inherit Mira's drafts. Turing does
 
 ## The Operator Layer — What Neo's Guide Stops At
 
-> "If you ignore the operator layer, your team collapses into a single blurry agent within a month."
+This is where the guide stops being a setup post and starts being an ops runbook. Most multi-agent teams look great on day one and feel blurry by day 30. The operator layer is the difference.
 
-This section covers:
-- **Handoff contracts** — how profiles pass work to each other
-- **Memory-KPI per profile** — what each agent is responsible for remembering
-- **Policy gates per role** — what each agent is allowed to do autonomously
-- **The four failure modes nobody posts screenshots of**
+### Handoff Contracts Between Profiles
 
-*(Full operator runbook content was truncated in source — accessible via original X thread)*
+Profiles specialize, which means they also have to hand work off cleanly. A handoff without a contract becomes "Alan dumped 40kb of raw research into Mira's session, and now Mira is also a researcher again."
+
+**A handoff contract is one file per role pair, stored at `~/.hermes/team/handoffs/` with four fields:**
+
+1. **Input shape** — what the receiving profile expects (e.g., Alan → Mira: A ranked list of validated claims with source URLs, not raw excerpts)
+2. **Output shape** — what the receiving profile will return (Mira → Hermes: A drafted section with a change log, not a finished article)
+3. **Failure action** — what happens if the input is malformed (block, require-human-review, retry with adjusted prompt)
+4. **Verification gate** — one assertion that must be true before the handoff completes (for Alan → Mira: every claim carries a source URL; for Turing → Hermes: every fix has a passing test)
+
+With handoff contracts, you can watch the boundary and see when it rots. Without them, specialization dissolves in two weeks.
+
+### Memory-KPI Per Profile
+
+Hermes profiles isolate memory, which is necessary but not sufficient. Memory rots inside each profile the same way a single wiki rots past 100 pages. Alan's research notes go stale. Mira's draft fragments pile up. Turing's debugging sessions accumulate dead branches.
+
+**Run a weekly memory audit per profile:**
+```
+hermes memory audit --profile alan --stale-threshold 15%
+```
+
+> If you run LACP alongside Hermes, you get the same primitive at the control-plane layer: `lacp memory-kpi --profile alan --json | jq`. Either way, the number you watch is `stale_notes`. Once it crosses 15% of total notes in a profile, schedule a brain-resolve pass before that profile starts quoting itself from an obsolete context.
+
+### Policy Gates Per Role
+
+Different roles carry different risks. Research reads. Writing drafts. Engineering executes. Orchestration decides. A single policy cannot be right for all four.
+
+**Per-role policy, in plain shape:**
+
+- **Alan (research):** risk class `safe`. Can read web, read repo, write to `research/` only. Cannot run shell commands. Cannot write outside its sandbox.
+- **Mira (writer):** risk class `safe`. Can read research outputs, write to `drafts/` only. Cannot read secrets, cannot execute code.
+- **Turing (engineer):** risk class `review`. Can read repo, run sandboxed tests, write to a feature branch. Every commit to main requires explicit orchestrator approval.
+- **Hermes (orchestrator):** risk class `critical`. The only profile that can approve Turing's commits, merge branches, or trigger paid API calls above a budget ceiling.
+
+Encode this in each profile's `config.yaml` under a `policy:` block. **No profile gets more permission than its role needs, and the orchestrator is the only one who can widen any other profile's scope.**
+
+### Gateway Messaging for Remote Supervision
+
+The profile system is a local org chart. The gateway turns it into an operational system you can supervise from a phone.
+
+Wire each profile to its own messaging identity:
+- Alan posts research findings to a `#research` channel
+- Mira drops drafts to a `#writing` channel
+- Turing posts test results and PR links to `#engineering`
+- Hermes synthesizes into `#ops` and asks for human approval on critical actions
+
+Now you can walk to lunch and come back knowing which profile did what, in what order, and where it stopped. Messaging is what turns four local profiles into a live multi-agent control surface.
 
 ---
 
-## Day-30 Failures
+## Day-30 Failure Modes — The Four Things That Break
 
-*(Section content truncated in source — accessible via original X thread)*
+Every 4-profile team hits at least one of these. All four are preventable.
+
+### Failure 1 — Profile Drift
+SOUL.md edits accumulate. A week ago, Mira was "clear and audience-aware." Today, Mira is "clear, audience-aware, technically precise, and willing to draft implementation notes." Congratulations — Mira is slowly becoming Turing.
+
+**Patch:** Diff each SOUL.md weekly against its day-one version. Any new responsibility gets an explicit approval log entry, or it gets reverted.
+
+### Failure 2 — Handoff Rot
+The contract file exists, but nobody enforces it. Alan starts sending raw transcripts to Mira again. Mira starts asking Turing to "just check this one thing." Boundaries dissolve.
+
+**Patch:** Wire each handoff file into the harness. If the input does not match the declared shape, fail the handoff and require human review. The contract is only real if it can block.
+
+### Failure 3 — SOUL.md Bloat
+Each role grows edge cases. Turing gets a paragraph about "how we handle Python 2 legacy code." Alan gets three paragraphs about "when to skip peer-reviewed sources." Within a month, each SOUL.md is 2kb of special cases, and the agent loses the original identity in the noise.
+
+**Patch:** Cap SOUL.md at 400 words. Anything beyond that goes into AGENTS.md or a per-domain reference file. Identity stays stable; context rotates.
+
+### Failure 4 — Cron Collision
+Profiles run cron jobs. Alan pulls a weekly research digest. Mira regenerates a weekly draft. Turing runs nightly test sweeps. Hermes runs a daily orchestration pass. By week four, two of them are colliding at 3am because nobody coordinated the schedule.
+
+**Patch:** One shared `~/.hermes/team/cron.md` file listing every scheduled task across every profile with its exact time, duration, and dependency. Stagger collisions. Check the file before adding a new cron to any profile.
 
 ---
 
-## Copy-Paste: team-agents.md Template
+## The Team Reference File — Copy-Paste Template
 
-*(Template content truncated in source — accessible via original X thread)*
+One file, one purpose: explain your team to yourself and anyone else using the system six months from now.
+
+```markdown
+# Team: Hermes Multi-Agent
+Objective: run a 4-profile Hermes team that stays coherent past day 30
+
+## Roster
+| Profile | Role | Risk Class |
+|---------|------|------------|
+| Hermes | Orchestrator | Critical |
+| Alan | Research Specialist | Safe |
+| Mira | Narrative Architect | Safe |
+| Turing | Builder & Debugger | Review |
+
+## Handoff Contracts
+- `~/.hermes/team/handoffs/alan-to-mira.md`
+- `~/.hermes/team/handoffs/mira-to-hermes.md`
+- `~/.hermes/team/handoffs/turing-to-hermes.md`
+
+## Cron Schedule
+- `~/.hermes/team/cron.md`
+
+## Policy Gates
+Encoded in each profile's `config.yaml` under `policy:` block.
+
+## SOUL.md Day-One References
+- `~/.hermes/profiles/hermes/SOUL.md.day0`
+- `~/.hermes/profiles/alan/SOUL.md.day0`
+- `~/.hermes/profiles/mira/SOUL.md.day0`
+- `~/.hermes/profiles/turing/SOUL.md.day0`
+
+## Messaging Routes
+- Alan → #research
+- Mira → #writing
+- Turing → #engineering
+- Hermes → #ops (human approval gate)
+
+## Guardrails
+- No SOUL.md edit without a logged reason
+- No handoff accepted without the declared input shape
+- No role widened without orchestrator approval
+- No cron added without checking the shared schedule
+```
+
+> Keep this file under source control. Every team member's edit goes through a commit. You will thank yourself on day 90.
 
 ---
 
-**Original thread:** https://x.com/nyk_builderz/status/2044472463279710344
+## Agent Extraction Layer
+
+**Objective:** Run a 4-profile Hermes team that stays coherent past day 30
+
+**Inputs:** Working Hermes base, profile CLI, SOUL.md + AGENTS.md split, handoff contracts, per-role policy, gateway messaging
+
+**Process:**
+1. Build the 4 profiles with `--clone`
+2. Write a distinct SOUL.md per role
+3. Keep project context in AGENTS.md
+4. Encode handoff contracts at `~/.hermes/team/handoffs/`
+5. Encode per-role policy in each `config.yaml`
+6. Run weekly memory-KPI per profile
+7. Diff each SOUL.md against day-one
+8. Stagger cron across profiles
+9. Enforce team-agents.md via commits
+
+**Outputs:**
+- Four isolated profiles
+- Per-role policy blocks
+- Handoff contract files
+- Staggered cron schedule
+- Messaging routes
+- Versioned team reference
+
+**Guardrails:**
+- No SOUL.md edit without a logged reason
+- No handoff accepted without the declared input shape
+- No role widened without orchestrator approval
+- No cron added without checking the shared schedule
+
+---
+
+## Closing
+
+> "Most multi-agent setups fail quietly. Everything looks fine on day one, works well on day seven, and blurs together by day thirty. The profile system is not what fails - it is the operator layer on top of it that nobody writes about."
+>
+> "Profiles are the feature. Boundaries are the moat."
+
 **Credit:** [@nyk_builderz](https://x.com/nyk_builderz) | Inspired by [@neoaiforecast](https://x.com/@neoaiforecast)
+**Original thread:** https://x.com/nyk_builderz/status/2044472463279710344

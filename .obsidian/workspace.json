@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ca0bf91f818aacc5",
+        "id": "2f969de392b166c7",
         "type": "tabs",
         "children": [
           {
-            "id": "261b4281719d84fc",
+            "id": "442da9e58effdb83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Article - Claude Code Ultraplan Clearly Explained - Nick Spisak 2026-04-11.md",
+                "file": "Clippings/The Hermes Agent clearly explained (how to use it).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Article - Claude Code Ultraplan Clearly Explained - Nick Spisak 2026-04-11"
+              "title": "The Hermes Agent clearly explained (how to use it)"
             }
           }
         ]
@@ -195,8 +195,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "2f983fa418e3bf23",
+  "active": "442da9e58effdb83",
   "lastOpenFiles": [
+    "Clippings/How to cut Claude Code costs by 3x (using Karpathy's context engineering principles).md",
+    "Clippings/The Hermes Agent clearly explained (how to use it).md",
+    "Clippings/17 Claude Skills → $500Day → $10KMonth. FULL COURSE.md",
+    "Clippings/10 Slash Commands to Use Claude Code like Boris Cherny Does (with a bonus)!.md",
+    "Clippings/9 Claude Skills That Will Change Your Life (RESOURCES INCLUDED).md",
+    "Clippings/20 Powerful Agentic-Skills for Claude, ChatGPT & Gemini..md",
+    "Article - Claude Code Ultraplan Clearly Explained - Nick Spisak 2026-04-11.md",
     "Articles/cover_hermes_imran.jpg",
     "Articles/The Hermes Agent clearly explained - SIP Podcast 2026-04-21.md",
     "Articles/Claude Design - The Ultimate Guide - AI Edge 2026-04-21.md",
@@ -210,7 +217,6 @@
     "Clippings/How to Build a Team of AI Agents That Work Together (Full Course).md",
     "Clippings/Claude Opus 4.7 Isn't a Drop-in Replacement for 4.6.md",
     "Clippings/Claude Design The Ultimate Guide.md",
-    "Clippings/9 Claude Skills That Will Change Your Life (RESOURCES INCLUDED).md",
     "Research/Imran Hermes Setup - SIP Podcast.md",
     "Research/Claude 4.7 - Akshay Deep Dive.md",
     "Research/Claude 4.7 Migration - 10 Moves.md",
@@ -220,11 +226,6 @@
     "wiki/raw/articles/Changes in the system prompt between Claude Opus 4.6 and 4.7 - Simon Willison 2026-04-18.md",
     "wiki/entities/simon-willison.md",
     "Changes in the system prompt between Claude Opus 4.6 and 4.7 - Simon Willison 2026-04-18.md",
-    "Prompt Caching in LLMs Clearly Explained.md",
-    "Products/JunaidBurke-X-Rebrand.md",
-    "Claude + Obsidian The Memory Stack That Compounds.md",
-    "9 Claude Skills That Will Change Your Life.md",
-    "Clippings/Claude Schedules vs Routines (What's the difference).md",
     "Products/AI-Agent-Playbook-Skill-Pack/Context-Files/marketer",
     "Products/AI-Agent-Playbook-Skill-Pack/Context-Files/developer",
     "Products/AI-Agent-Playbook-Skill-Pack/Context-Files/founder",

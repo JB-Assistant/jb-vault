@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-04-13 | Total pages: 12
+> Last updated: 2026-04-13 | Total pages: 13
 
 ## Entities
 - [[simon-willison]] — Simon Willison (simonwillison.net) — LLM/blogger
@@ -16,6 +16,7 @@
 - [[vibemarketer]] — AI agent educator on X, posts practical guides on Claude Code and managed agents
 - [[akshay-pachaar]] — AI agent educator on X, posts first-principles technical threads on agent memory systems and architecture
 
+- [[defileo]] — DeFi & AI content creator, X threads/articles on Claude workflows and tooling
 ## Concepts
 
 - [[4-layer-memory-architecture]] — Layered agent memory: built-in → Agents.md/Soul.md → Vault → Session Search

@@ -11,10 +11,14 @@
             "id": "310eb9645b31d121",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Browser Harness - Setup, Summary and Use Cases 2026-04-22.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Browser Harness - Setup, Summary and Use Cases 2026-04-22"
             }
           }
         ]
@@ -191,8 +195,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "2f983fa418e3bf23",
+  "active": "310eb9645b31d121",
   "lastOpenFiles": [
+    "10 Claude Workflows That Save Me 10+ Hours a Week - darkzodchi 2026-04-22.md",
+    "9 Claude Skills That Will Change Your Life.md",
+    "Browser Harness - Setup, Summary and Use Cases 2026-04-22.md",
     "Leads/TireManagerPro Leads.md",
     "Leads/Qualified.md",
     "Leads/OttoManagerPro Leads.md",
@@ -206,7 +213,6 @@
     "Leads/_Database.md",
     "Leads/Unqualified.md",
     "Leads/Untitled.md",
-    "10 Claude Workflows That Save Me 10+ Hours a Week - darkzodchi 2026-04-22.md",
     "Leads/Daily/Log Index.md",
     "Leads/Daily",
     "Leads",
@@ -219,8 +225,6 @@
     "The Ultimate Guide to Prompting AI Agents - X Article 2026-04-22.md",
     "XArticles/Article - What Hermes Agent Can Do - Blocmates 2026-04-10.md",
     "XArticles/Article - How To Build Own Content Engine? (FULL COURSE).md",
-    "XArticles/Article - Hermes Agent Clearly Explained - Nick Spisak 2026-04-10.md",
-    "XArticles/Article - Anthropic sees the moat - Jaya Gupta 2026-04-10.md",
     "Articles/cover_hermes_imran.jpg",
     "Articles",
     "Research",

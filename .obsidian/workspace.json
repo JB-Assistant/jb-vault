@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/3 Highly Useful Hermes Skills.md",
+                "file": "Clippings/35 Claude Code Commands, Tricks, and Workflows That Most Users Don't Know — The Complete List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 Highly Useful Hermes Skills"
+              "title": "35 Claude Code Commands, Tricks, and Workflows That Most Users Don't Know — The Complete List"
             }
           }
         ]
@@ -197,8 +197,9 @@
   },
   "active": "442da9e58effdb83",
   "lastOpenFiles": [
-    "Clippings/The Hermes Agent clearly explained (how to use it).md",
     "Clippings/3 Highly Useful Hermes Skills.md",
+    "Clippings/35 Claude Code Commands, Tricks, and Workflows That Most Users Don't Know — The Complete List.md",
+    "Clippings/The Hermes Agent clearly explained (how to use it).md",
     "Clippings/How to cut Claude Code costs by 3x (using Karpathy's context engineering principles).md",
     "Clippings/17 Claude Skills → $500Day → $10KMonth. FULL COURSE.md",
     "Clippings/10 Slash Commands to Use Claude Code like Boris Cherny Does (with a bonus)!.md",
@@ -225,7 +226,6 @@
     "Research/Hermes Use Cases & Lessons - 0xJeff.md",
     "Research",
     "wiki/raw/articles/Changes in the system prompt between Claude Opus 4.6 and 4.7 - Simon Willison 2026-04-18.md",
-    "wiki/entities/simon-willison.md",
     "Products/AI-Agent-Playbook-Skill-Pack/Context-Files/marketer",
     "Products/AI-Agent-Playbook-Skill-Pack/Context-Files/developer",
     "Products/AI-Agent-Playbook-Skill-Pack/Context-Files/founder",

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2f969de392b166c7",
+        "id": "81cf0e0b4bc82f4e",
         "type": "tabs",
         "children": [
           {
-            "id": "442da9e58effdb83",
+            "id": "dd2372b4105fc969",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 Claude Workflows That Save Me 10+ Hours a Week - darkzodchi 2026-04-22.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "10 Claude Workflows That Save Me 10+ Hours a Week - darkzodchi 2026-04-22"
+              "title": "New tab"
             }
           }
         ]
@@ -195,8 +191,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "442da9e58effdb83",
+  "active": "dd2372b4105fc969",
   "lastOpenFiles": [
+    "Leads/Untitled.md",
+    "Leads/_Database.md",
+    "10 Claude Workflows That Save Me 10+ Hours a Week - darkzodchi 2026-04-22.md",
+    "Leads/Daily/Log Index.md",
+    "Leads/Unqualified.md",
+    "Leads/TireManagerPro Leads.md",
+    "Leads/Qualified.md",
+    "Leads/OttoManagerPro Leads.md",
+    "Leads/In Conversation.md",
+    "Leads/FieldAgent AI Leads.md",
+    "Leads/Dead.md",
+    "Leads/Daily Log Index.md",
+    "Leads/Daily",
+    "Leads/Converted.md",
+    "Leads/Contacted.md",
+    "Leads/CleanBuddyPro Leads.md",
+    "Leads",
     "wiki/raw/articles/FULL OpenClaw Tutorial for beginners (April 2026 edition) - Alex Finn 2026-04-22.md",
     "wiki/raw/articles/Claude Schedules vs Routines (What's the difference) - Nick Spisak 2026-04-22.md",
     "FULL OpenClaw Tutorial for beginners (April 2026 edition) - Alex Finn 2026-04-22.md",
@@ -204,25 +217,10 @@
     "wiki/raw/articles/10 Claude Workflows That Save Me 10+ Hours a Week - darkzodchi 2026-04-22.md",
     "wiki/entities/darkzodchi.md",
     "The Ultimate Guide to Prompting AI Agents - X Article 2026-04-22.md",
-    "10 Claude Workflows That Save Me 10+ Hours a Week - darkzodchi 2026-04-22.md",
     "XArticles/Article - What Hermes Agent Can Do - Blocmates 2026-04-10.md",
     "XArticles/Article - How To Build Own Content Engine? (FULL COURSE).md",
     "XArticles/Article - Hermes Agent Clearly Explained - Nick Spisak 2026-04-10.md",
     "XArticles/Article - Anthropic sees the moat - Jaya Gupta 2026-04-10.md",
-    "XArticles/Article - AI Freelancing at 200 per hour - Eng Khairallah 2026-04-10.md",
-    "The Ultimate Guide to Claude Opus 4.7 - Pawel Huryn 2026-04-21.md",
-    "Prompt Caching in LLMs Clearly Explained.md",
-    "Don't be lazy to automate your work with routines - Defileo 2026-04-21.md",
-    "Claude + Obsidian The Memory Stack That Compounds.md",
-    "Changes in the system prompt between Claude Opus 4.6 and 4.7 - Simon Willison 2026-04-18.md",
-    "Article - The Ultimate Guide to Master Claude Tools - AI Edge 2026-04-18.md",
-    "Article - Second Brain for AI Agent - Pawel Huryn 2026-04-10.md",
-    "Article - JoaoMoura tweet link - 2026-04-13.md",
-    "Article - How to Build a Multi-Agent Team in Hermes - Neo 2026-04-12.md",
-    "Article - Hawks0x tweet link - 2026-04-13.md",
-    "Article - Everything you need to know about Claude Managed Agents - J.B. 2026-04-13.md",
-    "Article - Claude Code Ultraplan Clearly Explained - Nick Spisak 2026-04-11.md",
-    "Article - Build Agents that never forget - Akshay 2026-04-13.md",
     "Articles/cover_hermes_imran.jpg",
     "Articles",
     "Research",
@@ -232,8 +230,6 @@
     "Products/AI-Agent-Playbook-Skill-Pack/Context-Files/consultant",
     "Products/AI-Agent-Playbook-Skill-Pack/Skills",
     "Products/AI-Agent-Playbook-Skill-Pack/Context-Files",
-    "Products/JunaidBurke-X-Rebrand",
-    "Products/AI-Agent-Playbook-Skill-Pack",
     "Untitled.canvas"
   ]
 }

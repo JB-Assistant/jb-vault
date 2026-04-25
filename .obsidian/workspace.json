@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Prompt.md",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -198,6 +198,8 @@
   },
   "active": "721298f19e6f011b",
   "lastOpenFiles": [
+    "Articles/The Ultimate Guide to Running a Headless Mac mini for AI agents - 2026-04-17.md",
+    "CreditPilot-AI-PRD-v1.0.md",
     "Prompt Caching in LLMs Clearly Explained.md",
     "Browser Tasks - Batch 1.md",
     "Browser Task - Test.md",
@@ -224,8 +226,6 @@
     "Drafts",
     "Article - The Ultimate Open-Source Dev Stack - AlphaSignal AI 2026-04-22.md",
     "Research/Auto Repair CRM Research 2026-04-22.md",
-    "Ping - OpenClaw Check-In.md",
-    "Note to OpenClaw - Browser Harness.md",
     "Leads/Daily",
     "Leads",
     "Articles/cover_hermes_imran.jpg",

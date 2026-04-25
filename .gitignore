@@ -1,0 +1,11 @@
+*.md~
+*.log
+.DS_Store
+node_modules/
+vendor/
+build/
+dist/
+.cache/
+.idea/
+.vscode/
+.env

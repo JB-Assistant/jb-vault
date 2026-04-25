@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "257b1f36dd57db32",
+        "id": "f11bf69e845c13d2",
         "type": "tabs",
         "children": [
           {
-            "id": "51e0ad14af044ec5",
+            "id": "721298f19e6f011b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Claude Code Desktop - PRD to Project Prompt.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Claude Code Desktop - PRD to Project Prompt"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Prompt.md",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -191,8 +196,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "51e0ad14af044ec5",
+  "active": "721298f19e6f011b",
   "lastOpenFiles": [
+    "Prompt Caching in LLMs Clearly Explained.md",
+    "Browser Tasks - Batch 1.md",
+    "Browser Task - Test.md",
+    "Projects/Credit Card AI Manager - Implementation Plan.md",
+    "OttoManagerPro - New Site Copy.md",
+    "Junaid Burke - Site Copy + X Posts (OpenRouter Partnership).md",
+    "Hermes vs OpenClaw - Full Comparison + What Hermes Can Do.md",
+    "Designing for Agents - Teddy Riker (Ramp).md",
+    "Claude Design Masterclass - Corey Ganim (Full Notes + Takeaways).md",
+    "Claude Code Desktop - PRD to Project Prompt.md",
+    "Changes in the system prompt between Claude Opus 4.6 and 4.7 - Simon Willison 2026-04-18.md",
     "GPT-5.5 Review - Matt Shumer 2026-04-23.md",
     "9 Claude Skills That Will Change Your Life.md",
     "Browser Harness - Setup, Summary and Use Cases 2026-04-22.md",
@@ -201,7 +217,6 @@
     "wiki/raw/articles/GPT-5.5 Review - Matt Shumer 2026-04-23.md",
     "wiki/entities/openrouter.md",
     "Turn Your Hermes Agent Into an OpenRouter Expert - OpenRouter 2026-04-24.md",
-    "Projects/Credit Card AI Manager - Implementation Plan.md",
     "Projects",
     "Handoff - Credit Card AI Manager Review.md",
     "Handoff - Credit Card AI Manager Review - Hermes Response.md",
@@ -209,18 +224,8 @@
     "Drafts",
     "Article - The Ultimate Open-Source Dev Stack - AlphaSignal AI 2026-04-22.md",
     "Research/Auto Repair CRM Research 2026-04-22.md",
-    "Browser Tasks - Batch 1.md",
-    "Browser Task - Test.md",
     "Ping - OpenClaw Check-In.md",
     "Note to OpenClaw - Browser Harness.md",
-    "Articles/How to Give Claude Perfect Memory - AI Edge.md",
-    "OpenClaw-README.md",
-    "10 Claude Workflows That Save Me 10+ Hours a Week - darkzodchi 2026-04-22.md",
-    "Leads/TireManagerPro Leads.md",
-    "Leads/Qualified.md",
-    "Leads/OttoManagerPro Leads.md",
-    "Leads/In Conversation.md",
-    "Leads/FieldAgent AI Leads.md",
     "Leads/Daily",
     "Leads",
     "Articles/cover_hermes_imran.jpg",

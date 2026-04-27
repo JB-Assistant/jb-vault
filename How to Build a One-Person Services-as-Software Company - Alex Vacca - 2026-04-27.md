@@ -44,3 +44,10 @@ A solo operator can build a high-revenue AI-enabled services business by selling
 
 - Consider turning this into a more formal skill for leads generation and outreach automation in the JB Vault.
 - Add references to related notes in the JB Vault (e.g., agent stacks, service-delivery pipelines, and GTM systems).
+
+---
+
+## Related Notes
+
+- [[The Anatomy of a Perfect Skill - darkzodchi 2026-04-27]] — 6 patterns for writing effective AI agent skills; directly applicable to building the automation stacks described here
+- [[Skill Writing Guide - Hermes]] — Practical checklist and template for Hermes skill authoring

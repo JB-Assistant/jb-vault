@@ -281,3 +281,10 @@ Directly applicable to Hermes skills system. The 6 patterns map 1:1 to how Herme
 - Add "Out of Scope" sections to prevent misrouting
 - Add "read first" steps where missing (e.g., inspect project before generating)
 - Progressive disclosure pattern (linked files in skills/) is already supported by Hermes's `linked_files` system
+
+---
+
+## Related Notes
+
+- [[How to Build a One-Person Services-as-Software Company - Alex Vacca - 2026-04-27]] — The business model these skills power: solo operator + AI delivery stacks = software-like margins
+- [[Skill Writing Guide - Hermes]] — Practical checklist and template distilled from this article for Hermes skill authoring

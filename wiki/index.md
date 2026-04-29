@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-04-29 | Total pages: 43
+> Last updated: 2026-04-29 | Total pages: 47
 
 ## Entities
 - [[openrouter]] — Unified LLM API gateway (500+ models)
@@ -20,12 +20,16 @@
 - [[defileo]] — DeFi & AI content creator, X threads/articles on Claude workflows and tooling
 - [[corey-ganim]] — AI educator/entrepreneur on X; practical guides for Claude Cowork and AI workflows
 
+- [[aparna-dhinakaran]] — Founder of Arize AI; posts about AI agents, evals, observability, and harnesses
+- [[arize-ai]] — AI observability/evals platform; Arize Phoenix and agent infrastructure
 ## Concepts
 
 - [[4-layer-memory-architecture]] — Layered agent memory: built-in → Agents.md/Soul.md → Vault → Session Search
 - [[plain-text-persistence]] — Using Markdown files as agent memory, no DB needed
 - [[multi-agent-shared-vault]] — Multiple agents sharing the same Obsidian vault
 - [[karpathy-llm-wiki]] — Karpathy's LLM Wiki pattern — foundation for the 4-layer architecture
+
+- [[agent-harness]] — Closed-loop agent runtime architecture around a model: tools, context, permissions, persistence, and feedback
 
 ## Comparisons
 

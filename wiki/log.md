@@ -30,3 +30,10 @@
 - Created/updated entity: [[shubham-saboo]]
 - Created concept: [[self-improving-agent-loop]]
 - Tags: #hermes #openclaw #skills #self-improving-agents #agent-memory
+
+## 2026-04-29
+- Added article: "The Harness Is the Backend" by Mike Piccolo
+- Saved raw to wiki/raw/articles/
+- Created/updated entities: [[mike-piccolo]], [[iii-dev]]
+- Created concept: [[agentic-backend]]
+- Tags: #agent-harness #backend #ai-infrastructure #workers #triggers #functions

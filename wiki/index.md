@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-04-29 | Total pages: 50
+> Last updated: 2026-04-29 | Total pages: 54
 
 ## Entities
 - [[openrouter]] — Unified LLM API gateway (500+ models)
@@ -23,6 +23,8 @@
 - [[aparna-dhinakaran]] — Founder of Arize AI; posts about AI agents, evals, observability, and harnesses
 - [[arize-ai]] — AI observability/evals platform; Arize Phoenix and agent infrastructure
 - [[shubham-saboo]] — AI product manager at Google; posts practical AI agent/RAG workflows and Hermes/OpenClaw experiments
+- [[mike-piccolo]] — Founder of iii.dev; writes about AI infrastructure, agent harnesses, and backend primitives
+- [[iii-dev]] — Open-source agent/backend infrastructure using workers, triggers, and functions
 ## Concepts
 
 - [[4-layer-memory-architecture]] — Layered agent memory: built-in → Agents.md/Soul.md → Vault → Session Search
@@ -33,6 +35,8 @@
 - [[agent-harness]] — Closed-loop agent runtime architecture around a model: tools, context, permissions, persistence, and feedback
 
 - [[self-improving-agent-loop]] — Turning corrections, failures, and completed work into reusable skills/procedures
+
+- [[agentic-backend]] — Treating agents as backend workers with shared functions, triggers, state, observability, and queues
 
 ## Comparisons
 

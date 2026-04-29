@@ -11,3 +11,8 @@
   - Created entity: [[openrouter]]
   - Tags: #hermes #openrouter #ai-agent #skill-creation
 
+## 2026-04-29
+- Added article: "Claude Cowork: Ultimate Starter Pack for 2026 (Plugins, Skills, Workflows)" by Corey Ganim
+- Saved raw to wiki/raw/articles/
+- Created entity: [[corey-ganim]]
+- Tags: #claude-cowork #ai-agent #context-engineering #scheduled-tasks

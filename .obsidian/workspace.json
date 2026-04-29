@@ -11,10 +11,14 @@
             "id": "1c6b9165cd6bb9b0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "9 Claude Skills That Will Change Your Life.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "9 Claude Skills That Will Change Your Life"
             }
           }
         ]
@@ -70,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,6 +196,15 @@
   },
   "active": "1c6b9165cd6bb9b0",
   "lastOpenFiles": [
+    "wiki/raw/articles/What is an Agent Harness - X 2026-04-29.md",
+    "wiki/raw/articles/How to run a 24-7 AI Agent that Grows with You - X 2026-04-29.md",
+    "wiki/entities/shubham-saboo.md",
+    "wiki/entities/arize-ai.md",
+    "wiki/entities/aparna-dhinakaran.md",
+    "wiki/concepts/self-improving-agent-loop.md",
+    "wiki/concepts/agent-harness.md",
+    "What is an Agent Harness - X 2026-04-29.md",
+    "How to run a 24-7 AI Agent that Grows with You - X 2026-04-29.md",
     "Clippings/Anatomy of Agent SKILLS.md",
     "wiki/raw/articles/Top 67 Claude Skills - Mr Buzzoni 2026-04-28.md",
     "wiki/raw/articles/The Self-Healing Agent Harness - Peter Pang 2026-04-28.md",
@@ -210,15 +222,6 @@
     "wiki/raw/articles/Context Management in Agent Harnesses - Aparna Dhinakaran 2026-04-27.md",
     "The Anatomy of a Perfect Skill - darkzodchi 2026-04-27.md",
     "Skill Writing Guide - Hermes.md",
-    "Hub - Article Notes.md",
-    "How to Make 1000 per Hour Selling AI Audits - Corey Ganim 2026-04-27.md",
-    "How to Build a One-Person Services-as-Software Company - Alex Vacca - 2026-04-27.md",
-    "Context Management in Agent Harnesses - Aparna Dhinakaran 2026-04-27.md",
-    "Claude Code Desktop - PRD to Project Prompt.md",
-    "Articles/The Ultimate Guide to Running a Headless Mac mini for AI agents - 2026-04-17.md",
-    "CreditPilot-AI-PRD-v1.0.md",
-    "Prompt Caching in LLMs Clearly Explained.md",
-    "Browser Tasks - Batch 1.md",
     "Projects",
     "Drafts",
     "Leads/Daily",

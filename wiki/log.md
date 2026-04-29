@@ -23,3 +23,10 @@
 - Created/updated entities: [[aparna-dhinakaran]], [[arize-ai]]
 - Created concept: [[agent-harness]]
 - Tags: #agent-harness #ai-agents #evals #observability #hermes
+
+## 2026-04-29
+- Added article: "How to run a 24/7 AI Agent that Grows with You" by Shubham Saboo
+- Saved raw to wiki/raw/articles/
+- Created/updated entity: [[shubham-saboo]]
+- Created concept: [[self-improving-agent-loop]]
+- Tags: #hermes #openclaw #skills #self-improving-agents #agent-memory

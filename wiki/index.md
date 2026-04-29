@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-04-29 | Total pages: 47
+> Last updated: 2026-04-29 | Total pages: 50
 
 ## Entities
 - [[openrouter]] — Unified LLM API gateway (500+ models)
@@ -22,6 +22,7 @@
 
 - [[aparna-dhinakaran]] — Founder of Arize AI; posts about AI agents, evals, observability, and harnesses
 - [[arize-ai]] — AI observability/evals platform; Arize Phoenix and agent infrastructure
+- [[shubham-saboo]] — AI product manager at Google; posts practical AI agent/RAG workflows and Hermes/OpenClaw experiments
 ## Concepts
 
 - [[4-layer-memory-architecture]] — Layered agent memory: built-in → Agents.md/Soul.md → Vault → Session Search
@@ -30,6 +31,8 @@
 - [[karpathy-llm-wiki]] — Karpathy's LLM Wiki pattern — foundation for the 4-layer architecture
 
 - [[agent-harness]] — Closed-loop agent runtime architecture around a model: tools, context, permissions, persistence, and feedback
+
+- [[self-improving-agent-loop]] — Turning corrections, failures, and completed work into reusable skills/procedures
 
 ## Comparisons
 

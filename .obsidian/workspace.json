@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2026-04-29 ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,8 +191,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "49b87970efc94f26",
+  "active": "59c1af2b9bd8de68",
   "lastOpenFiles": [
+    "wiki/raw/articles/AI Agents That Builds Themselves - X 2026-04-29.md",
+    "wiki/entities/joao-moura.md",
+    "wiki/entities/iris-crewai.md",
+    "wiki/entities/crewai.md",
+    "wiki/concepts/entangled-agents.md",
+    "AI Agents That Builds Themselves - X 2026-04-29.md",
     "wiki/raw/articles/Claude Cowork- Ultimate Starter Pack for 2026 (Plugins, Skills, Workflows) - X 2026-04-29.md",
     "wiki/entities/aparna-dhinakaran.md",
     "What is an Agent Harness - X 2026-04-29.md",
@@ -213,12 +219,6 @@
     "Clippings/Anatomy of Agent SKILLS.md",
     "wiki/raw/articles/Top 67 Claude Skills - Mr Buzzoni 2026-04-28.md",
     "wiki/raw/articles/The Self-Healing Agent Harness - Peter Pang 2026-04-28.md",
-    "wiki/raw/articles/How to Build a Multi-Agent Coding Stack in 2026 - Khairallah AL-Awady 2026-04-28.md",
-    "wiki/entities/corey-ganim.md",
-    "Top 67 Claude Skills - Mr Buzzoni 2026-04-28.md",
-    "The Self-Healing Agent Harness - Peter Pang 2026-04-28.md",
-    "How to Build a Multi-Agent Coding Stack in 2026 - Khairallah AL-Awady 2026-04-28.md",
-    "Claude Cowork- Ultimate Starter Pack for 2026 (Plugins, Skills, Workflows) - X 2026-04-29.md",
     "Projects",
     "Drafts",
     "Leads/Daily",

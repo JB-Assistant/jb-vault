@@ -37,3 +37,10 @@
 - Created/updated entities: [[mike-piccolo]], [[iii-dev]]
 - Created concept: [[agentic-backend]]
 - Tags: #agent-harness #backend #ai-infrastructure #workers #triggers #functions
+
+## 2026-04-29
+- Added article: "AI Agents That Builds Themselves" by João Moura
+- Saved raw to wiki/raw/articles/
+- Created/updated entities: [[joao-moura]], [[crewai]], [[iris-crewai]]
+- Created concept: [[entangled-agents]]
+- Tags: #crewai #entangled-agents #self-improving-agents #memory #skills #flows

@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-04-29 | Total pages: 54
+> Last updated: 2026-04-29 | Total pages: 59
 
 ## Entities
 - [[openrouter]] — Unified LLM API gateway (500+ models)
@@ -25,6 +25,9 @@
 - [[shubham-saboo]] — AI product manager at Google; posts practical AI agent/RAG workflows and Hermes/OpenClaw experiments
 - [[mike-piccolo]] — Founder of iii.dev; writes about AI infrastructure, agent harnesses, and backend primitives
 - [[iii-dev]] — Open-source agent/backend infrastructure using workers, triggers, and functions
+- [[joao-moura]] — Founder of CrewAI; writes about production agents, memory, skills, and flows
+- [[crewai]] — AI agent platform/framework using agents, crews, flows, and memory
+- [[iris-crewai]] — CrewAI internal Slack-native AI employee that writes code and self-improves through memory/skills/flows
 ## Concepts
 
 - [[4-layer-memory-architecture]] — Layered agent memory: built-in → Agents.md/Soul.md → Vault → Session Search
@@ -37,6 +40,8 @@
 - [[self-improving-agent-loop]] — Turning corrections, failures, and completed work into reusable skills/procedures
 
 - [[agentic-backend]] — Treating agents as backend workers with shared functions, triggers, state, observability, and queues
+
+- [[entangled-agents]] — Agents that co-evolve with organizations via canonical memory, skills, deterministic flows, and review filters
 
 ## Comparisons
 

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f11bf69e845c13d2",
+        "id": "59685b2a33dcb066",
         "type": "tabs",
         "children": [
           {
-            "id": "721298f19e6f011b",
+            "id": "1c6b9165cd6bb9b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Anatomy of Agent SKILLS.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Anatomy of Agent SKILLS"
+              "title": "New tab"
             }
           }
         ]
@@ -196,8 +192,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "721298f19e6f011b",
+  "active": "1c6b9165cd6bb9b0",
   "lastOpenFiles": [
+    "Clippings/Anatomy of Agent SKILLS.md",
+    "wiki/raw/articles/Top 67 Claude Skills - Mr Buzzoni 2026-04-28.md",
+    "wiki/raw/articles/The Self-Healing Agent Harness - Peter Pang 2026-04-28.md",
+    "wiki/raw/articles/How to Build a Multi-Agent Coding Stack in 2026 - Khairallah AL-Awady 2026-04-28.md",
+    "wiki/raw/articles/Claude Cowork- Ultimate Starter Pack for 2026 (Plugins, Skills, Workflows) - X 2026-04-29.md",
+    "wiki/entities/corey-ganim.md",
+    "Top 67 Claude Skills - Mr Buzzoni 2026-04-28.md",
+    "The Self-Healing Agent Harness - Peter Pang 2026-04-28.md",
+    "How to Build a Multi-Agent Coding Stack in 2026 - Khairallah AL-Awady 2026-04-28.md",
+    "Claude Cowork- Ultimate Starter Pack for 2026 (Plugins, Skills, Workflows) - X 2026-04-29.md",
     "wiki/raw/articles/The Anatomy of a Perfect Skill - darkzodchi 2026-04-27.md",
     "wiki/raw/articles/Skill Writing Guide - Hermes.md",
     "wiki/raw/articles/How to Make 1000 per Hour Selling AI Audits - Corey Ganim 2026-04-27.md",
@@ -210,20 +216,10 @@
     "How to Build a One-Person Services-as-Software Company - Alex Vacca - 2026-04-27.md",
     "Context Management in Agent Harnesses - Aparna Dhinakaran 2026-04-27.md",
     "Claude Code Desktop - PRD to Project Prompt.md",
-    "Clippings/Anatomy of Agent SKILLS.md",
     "Articles/The Ultimate Guide to Running a Headless Mac mini for AI agents - 2026-04-17.md",
     "CreditPilot-AI-PRD-v1.0.md",
     "Prompt Caching in LLMs Clearly Explained.md",
     "Browser Tasks - Batch 1.md",
-    "Browser Task - Test.md",
-    "Projects/Credit Card AI Manager - Implementation Plan.md",
-    "OttoManagerPro - New Site Copy.md",
-    "Junaid Burke - Site Copy + X Posts (OpenRouter Partnership).md",
-    "Hermes vs OpenClaw - Full Comparison + What Hermes Can Do.md",
-    "Designing for Agents - Teddy Riker (Ramp).md",
-    "Claude Design Masterclass - Corey Ganim (Full Notes + Takeaways).md",
-    "Changes in the system prompt between Claude Opus 4.6 and 4.7 - Simon Willison 2026-04-18.md",
-    "GPT-5.5 Review - Matt Shumer 2026-04-23.md",
     "Projects",
     "Drafts",
     "Leads/Daily",

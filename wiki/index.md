@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-04-30 | Total pages: 63
+> Last updated: 2026-04-30 | Total pages: 65
 
 ## Entities
 - [[openrouter]] — Unified LLM API gateway (500+ models)

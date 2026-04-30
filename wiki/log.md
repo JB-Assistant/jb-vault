@@ -74,3 +74,9 @@
 - Saved raw to wiki/raw/articles/
 - Created entity: [[khairallah-al-awady]]
 - Tags: #claude #mcp #plugins #integrations #agent-workflows
+
+## 2026-04-30
+- Added article: "Kimi 2.6 + Opus 4.7 + GPT-5.5 is your cheat code" by Defileo
+- Saved raw to wiki/raw/articles/
+- Created/updated entity: [[defileo]]
+- Tags: #model-routing #kimi #claude #gpt-5-5 #agent-workflows #hermes

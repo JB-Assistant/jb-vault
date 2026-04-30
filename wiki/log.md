@@ -44,3 +44,19 @@
 - Created/updated entities: [[joao-moura]], [[crewai]], [[iris-crewai]]
 - Created concept: [[entangled-agents]]
 - Tags: #crewai #entangled-agents #self-improving-agents #memory #skills #flows
+
+
+## 2026-04-30
+- Added article: "How to Build a Services-as-Software Agency: The 5-Layer Operating Stack" by Alex Vacca
+- Saved raw to wiki/raw/articles/
+- Created entity: [[alex-vacca]]
+- Tags: #services-as-software #ai-outbound #claude-code #gtm #lead-hunter
+
+
+## 2026-04-30
+- Added article: "Curator" from Hermes Agent Docs
+- Added article: "GPT-5.5 Prompting Guide" from OpenAI Docs
+- Saved raw to wiki/raw/articles/
+- Created/updated entity: [[openai]]
+- Created concept: [[skill-curator]]
+- Tags: #hermes #skills #curator #gpt-5-5 #prompting

@@ -60,3 +60,17 @@
 - Created/updated entity: [[openai]]
 - Created concept: [[skill-curator]]
 - Tags: #hermes #skills #curator #gpt-5-5 #prompting
+
+
+## 2026-04-30
+- Added article: "35 KILLER Claude Prompts That Do The Work For You (steal these)" by Corey Ganim
+- Saved raw to wiki/raw/articles/
+- Updated entity: [[corey-ganim]]
+- Tags: #claude #prompts #content #strategy #research #agent-workflows
+
+
+## 2026-04-30
+- Added article: "50 Claude Plugins & MCP Integrations That Most Users Don't Know" by Khairallah AL-Awady
+- Saved raw to wiki/raw/articles/
+- Created entity: [[khairallah-al-awady]]
+- Tags: #claude #mcp #plugins #integrations #agent-workflows

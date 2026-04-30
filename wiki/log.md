@@ -80,3 +80,9 @@
 - Saved raw to wiki/raw/articles/
 - Created/updated entity: [[defileo]]
 - Tags: #model-routing #kimi #claude #gpt-5-5 #agent-workflows #hermes
+
+## 2026-04-30
+- Added article: "Never Hit Claude Usage Limits Ever Again" by Miles Deutscher
+- Saved raw to wiki/raw/articles/
+- Created/updated entity: [[miles-deutscher]]
+- Tags: #claude #usage-limits #model-routing #memory #agent-workflows #hermes

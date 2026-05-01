@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-04-30 | Total pages: 69
+> Last updated: 2026-05-01 | Total pages: 76
 
 ## Entities
 - [[openrouter]] — Unified LLM API gateway (500+ models)
@@ -33,6 +33,7 @@
 - [[alex-vacca]] — Co-founder of ColdIQ; writes about AI outbound, services-as-software, Clay, Claude Code, and GTM systems
 - [[openai]] — AI lab/API provider; publishes models, APIs, agent tooling, and prompting guidance
 - [[khairallah-al-awady]] — AI/onchain creator writing about vibe coding, Claude plugins, and MCP integrations
+- [[rohit4verse]] — Engineer/content creator writing about AI agent primitives, harnesses, evals, and production patterns
 ## Concepts
 
 - [[4-layer-memory-architecture]] — Layered agent memory: built-in → Agents.md/Soul.md → Vault → Session Search

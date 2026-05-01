@@ -92,3 +92,10 @@
 - Saved raw to wiki/raw/articles/
 - Created/updated entity: [[nav-toor]]
 - Tags: #claude-cowork #skills #scheduled-tasks #subagents #agent-workflows #hermes
+
+## 2026-05-01
+- Added article: "What to Learn, Build, and Skip in AI Agents (2026)" by Rohit
+- Saved raw to wiki/raw/articles/
+- Created entity: [[rohit4verse]]
+- Tags: #ai-agents #context-engineering #agent-harness #evals #mcp #hermes
+

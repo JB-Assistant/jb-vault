@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-01 | Total pages: 80
+> Last updated: 2026-05-01 | Total pages: 83
 
 ## Entities
 - [[openrouter]] — Unified LLM API gateway (500+ models)
@@ -31,6 +31,7 @@
 - [[crewai]] — AI agent platform/framework using agents, crews, flows, and memory
 - [[iris-crewai]] — CrewAI internal Slack-native AI employee that writes code and self-improves through memory/skills/flows
 - [[alex-vacca]] — Co-founder of ColdIQ; writes about AI outbound, services-as-software, Clay, Claude Code, and GTM systems
+- [[coldiq]] — B2B GTM/services-as-software agency built by Alex Vacca
 - [[openai]] — AI lab/API provider; publishes models, APIs, agent tooling, and prompting guidance
 - [[khairallah-al-awady]] — AI/onchain creator writing about vibe coding, Claude plugins, and MCP integrations
 - [[rohit4verse]] — Engineer/content creator writing about AI agent primitives, harnesses, evals, and production patterns
@@ -53,6 +54,7 @@
 
 - [[skill-curator]] — Hermes background maintenance system for agent-created skills
 - [[generative-ui]] — Agent-composed/generated interfaces for human interaction with AI systems
+- [[services-as-software]] — Services contract with software-like automated infrastructure underneath
 ## Comparisons
 
 ## Queries

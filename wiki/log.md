@@ -106,3 +106,11 @@
 - Created concept: [[generative-ui]]
 - Tags: #generative-ui #ai-agents #frontend #mcp #hermes
 
+## 2026-05-01
+- Added article: "How I Quit Working for Sam Altman and Built a $7M Services-as-Software Agency" by Alex Vacca
+- Saved raw to wiki/raw/articles/
+- Updated entity: [[alex-vacca]]
+- Created entity: [[coldiq]]
+- Created concept: [[services-as-software]]
+- Tags: #services-as-software #agency #gtm #documentation #ai-automation #hermes
+

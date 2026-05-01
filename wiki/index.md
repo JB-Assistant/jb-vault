@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-01 | Total pages: 76
+> Last updated: 2026-05-01 | Total pages: 80
 
 ## Entities
 - [[openrouter]] — Unified LLM API gateway (500+ models)
@@ -34,6 +34,8 @@
 - [[openai]] — AI lab/API provider; publishes models, APIs, agent tooling, and prompting guidance
 - [[khairallah-al-awady]] — AI/onchain creator writing about vibe coding, Claude plugins, and MCP integrations
 - [[rohit4verse]] — Engineer/content creator writing about AI agent primitives, harnesses, evals, and production patterns
+- [[atai-barkai]] — CEO of CopilotKit; writes about agent-native software and generative UI
+- [[copilotkit]] — Open-source frontend stack for AI agents and generative UI
 ## Concepts
 
 - [[4-layer-memory-architecture]] — Layered agent memory: built-in → Agents.md/Soul.md → Vault → Session Search
@@ -50,6 +52,7 @@
 - [[entangled-agents]] — Agents that co-evolve with organizations via canonical memory, skills, deterministic flows, and review filters
 
 - [[skill-curator]] — Hermes background maintenance system for agent-created skills
+- [[generative-ui]] — Agent-composed/generated interfaces for human interaction with AI systems
 ## Comparisons
 
 ## Queries

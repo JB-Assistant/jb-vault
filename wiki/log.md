@@ -99,3 +99,10 @@
 - Created entity: [[rohit4verse]]
 - Tags: #ai-agents #context-engineering #agent-harness #evals #mcp #hermes
 
+## 2026-05-01
+- Added article: "UI is Dead. Long Live Generative UI" by Atai Barkai
+- Saved raw to wiki/raw/articles/
+- Created entities: [[atai-barkai]], [[copilotkit]]
+- Created concept: [[generative-ui]]
+- Tags: #generative-ui #ai-agents #frontend #mcp #hermes
+

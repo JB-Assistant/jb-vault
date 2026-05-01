@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-04-30 | Total pages: 67
+> Last updated: 2026-04-30 | Total pages: 69
 
 ## Entities
 - [[openrouter]] — Unified LLM API gateway (500+ models)
@@ -14,6 +14,7 @@
 - [[alex-finn]] — YouTuber who popularized the OpenClaw + Obsidian memory architecture
 - [[aiedge]] — AI content creator, practical beginner guide for Claude Code + Obsidian second brain
 - [[miles-deutscher]] — AI-focused creator/builder of AI Edge; writes about Claude workflows, usage optimization, and AI productivity
+- [[nav-toor]] — AI creator writing practical Claude Cowork commands, skills, automations, and workflow guides
 - [[karpathy]] — AI researcher who authored the LLM Wiki pattern (karpathy-llm-wiki)
 - [[vibemarketer]] — AI agent educator on X, posts practical guides on Claude Code and managed agents
 - [[akshay-pachaar]] — AI agent educator on X, posts first-principles technical threads on agent memory systems and architecture

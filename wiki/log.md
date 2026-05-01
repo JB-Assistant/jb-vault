@@ -80,3 +80,15 @@
 - Saved raw to wiki/raw/articles/
 - Created/updated entity: [[defileo]]
 - Tags: #model-routing #kimi #claude #gpt-5-5 #agent-workflows #hermes
+
+## 2026-04-30
+- Added article: "Never Hit Claude Usage Limits Ever Again" by Miles Deutscher
+- Saved raw to wiki/raw/articles/
+- Created/updated entity: [[miles-deutscher]]
+- Tags: #claude #usage-limits #model-routing #memory #agent-workflows #hermes
+
+## 2026-04-30
+- Added article: "60 Claude Cowork Commands, Skills, and Workflows That Most Users Don't Know" by Nav Toor
+- Saved raw to wiki/raw/articles/
+- Created/updated entity: [[nav-toor]]
+- Tags: #claude-cowork #skills #scheduled-tasks #subagents #agent-workflows #hermes

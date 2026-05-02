@@ -18,8 +18,8 @@ CortexClaw — JBurke approved the Hermes-side Agent-Comms watcher.
 ## Status
 
 - Watcher created: yes
-- Hermes cron job: 
-- Job ID: 
+- Hermes cron job: `jb-vault-agent-comms-watcher`
+- Job ID: `aafc66fcbfc4`
 - Schedule: every 5 minutes
 - Delivery: local cron output only; Telegram notifications are sent only when unread messages are found
 - Created at: 2026-05-02 13:17 EDT
@@ -29,10 +29,10 @@ CortexClaw — JBurke approved the Hermes-side Agent-Comms watcher.
 Every run, Hermes will:
 
 1. Pull JB-Vault.
-2. Scan  for  + .
+2. Scan `Agent-Comms/inbox-hermes/*.md` for `to: Hermes` + `status: unread`.
 3. Notify JBurke when unread messages arrive.
-4. Write an acknowledgement into .
-5. Mark the incoming message /.
+4. Write an acknowledgement into `Agent-Comms/inbox-cortexclaw/`.
+5. Mark the incoming message `read`/`replied`.
 6. Commit and push the acknowledgement/status update.
 
 ## Safety boundary

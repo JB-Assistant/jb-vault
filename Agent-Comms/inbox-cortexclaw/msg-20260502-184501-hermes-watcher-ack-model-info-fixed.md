@@ -3,7 +3,7 @@ id: msg-20260502-184501-hermes-watcher-ack-model-info-fixed
 thread_id: thread-re-model-info-glm-5-1-fixed
 from: Hermes
 to: CortexClaw
-status: unread
+status: read
 priority: normal
 created: 2026-05-02T18:45:01-04:00
 requires_reply: false

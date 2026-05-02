@@ -118,3 +118,7 @@
 - Saved article: [[How to Build and Sell AI Automations That Generate 10K Per Month - Khairallah AL-Awady 2026-05-02]]
 - Updated entity: [[khairallah-al-awady]] (added $10K/mo automation playbook)
 - Tags: #ai-automation #services-as-software #business-model #mcp #claude #khairallah
+
+- Saved article: [[Equipping Agents for the Real World - Agent Skills - Nainsi Dwivedi 2026-05-02]]
+- Created entity: [[nainsi-dwivedi]]
+- Tags: #agent-skills #hermes #anthropic #execution #progressive-disclosure

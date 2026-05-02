@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "f1af78d7a4b455db",
+    "id": "9bd567079172908e",
     "type": "split",
     "children": [
       {
-        "id": "f4243fe2ee0f0837",
+        "id": "450f967bca9e8881",
         "type": "tabs",
         "children": [
           {
-            "id": "49b87970efc94f26",
+            "id": "7e6cf711b6018f99",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f9209ba01f86caae",
+    "id": "3a620a6f0971cff8",
     "type": "split",
     "children": [
       {
-        "id": "063a42c351dc96d5",
+        "id": "c0194cb9628f4d28",
         "type": "tabs",
         "children": [
           {
-            "id": "2f983fa418e3bf23",
+            "id": "b22924dfcd327e1e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "59c1af2b9bd8de68",
+            "id": "f3cf86f626fb11e8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "990276a16efa30d6",
+            "id": "e10019d66313bee9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,20 +77,20 @@
     "width": 300
   },
   "right": {
-    "id": "295f3395ee29768f",
+    "id": "fd5ca713a48c7771",
     "type": "split",
     "children": [
       {
-        "id": "4d46441d2c26695f",
+        "id": "d754ba664971c007",
         "type": "tabs",
         "children": [
           {
-            "id": "d972223cb07b6759",
+            "id": "1f39f60eb77144fc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "You Can Automate Anything - Defileo 2026-04-09.md",
+                "file": "9 Claude Skills That Will Change Your Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,25 +100,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for You Can Automate Anything - Defileo 2026-04-09"
+              "title": "Backlinks for 9 Claude Skills That Will Change Your Life"
             }
           },
           {
-            "id": "f66d2fb195d4c507",
+            "id": "bbba27307c131543",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "You Can Automate Anything - Defileo 2026-04-09.md",
+                "file": "9 Claude Skills That Will Change Your Life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from You Can Automate Anything - Defileo 2026-04-09"
+              "title": "Outgoing links from 9 Claude Skills That Will Change Your Life"
             }
           },
           {
-            "id": "faa54d6ef8e2a7b2",
+            "id": "21b3fc9abd3d7f64",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,7 +133,7 @@
             }
           },
           {
-            "id": "fb25f942b05c861e",
+            "id": "7626bf9815b1ba70",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -147,40 +147,29 @@
             }
           },
           {
-            "id": "4676a5306b1ccedd",
+            "id": "cf029f2c2a64e309",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "You Can Automate Anything - Defileo 2026-04-09.md",
+                "file": "9 Claude Skills That Will Change Your Life.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of You Can Automate Anything - Defileo 2026-04-09"
-            }
-          },
-          {
-            "id": "3121fa7d1eab0c18",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of 9 Claude Skills That Will Change Your Life"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -190,45 +179,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "2f983fa418e3bf23",
+  "active": "b22924dfcd327e1e",
   "lastOpenFiles": [
-    "wiki/services-as-software.md",
-    "wiki/raw/articles/UI is Dead. Long Live Generative UI - X 2026-05-01.md",
-    "wiki/raw/articles/How I Quit Working for Sam Altman and Built a $7M Services-as-Software Agency - X 2026-05-01.md",
-    "wiki/generative-ui.md",
-    "wiki/entities/copilotkit.md",
-    "wiki/entities/coldiq.md",
-    "wiki/entities/atai-barkai.md",
-    "UI is Dead. Long Live Generative UI - X 2026-05-01.md",
-    "How I Quit Working for Sam Altman and Built a $7M Services-as-Software Agency - X 2026-05-01.md",
-    "wiki/raw/articles/What to Learn, Build, and Skip in AI Agents (2026) - X 2026-05-01.md",
-    "wiki/entities/rohit4verse.md",
-    "What to Learn, Build, and Skip in AI Agents (2026) - X 2026-05-01.md",
-    "wiki/raw/articles/Never Hit Claude Usage Limits Ever Again - X 2026-04-30.md",
-    "wiki/raw/articles/60 Claude Cowork Commands, Skills, and Workflows That Most Users Don't Know - X 2026-04-30.md",
-    "wiki/entities/nav-toor.md",
-    "wiki/entities/miles-deutscher.md",
-    "Never Hit Claude Usage Limits Ever Again - X 2026-04-30.md",
-    "60 Claude Cowork Commands, Skills, and Workflows That Most Users Don't Know - X 2026-04-30.md",
-    "wiki/raw/articles/Kimi 2.6 + Opus 4.7 + GPT-5.5 is your cheat code - X 2026-04-30.md",
-    "wiki/raw/articles/How to Build a Services-as-Software Agency - X 2026-04-30.md",
-    "wiki/raw/articles/GPT-5.5 Prompting Guide - OpenAI Docs 2026-04-30.md",
-    "wiki/raw/articles/Curator - Hermes Agent Docs 2026-04-30.md",
-    "wiki/raw/articles/50 Claude Plugins and MCP Integrations - X 2026-04-30.md",
-    "wiki/raw/articles/35 Killer Claude Prompts That Do The Work For You - X 2026-04-30.md",
-    "wiki/entities/openai.md",
-    "wiki/entities/khairallah-al-awady.md",
-    "Projects",
-    "Drafts",
-    "Leads/Daily",
-    "Leads",
-    "Articles/cover_hermes_imran.jpg",
-    "Articles",
-    "Research",
-    "Products/AI-Agent-Playbook-Skill-Pack/Context-Files/marketer",
-    "Products/AI-Agent-Playbook-Skill-Pack/Context-Files/developer",
-    "Products/AI-Agent-Playbook-Skill-Pack/Context-Files/founder",
-    "Products/AI-Agent-Playbook-Skill-Pack/Context-Files/consultant",
-    "Untitled.canvas"
+    "Article - AI Freelancing at 200 per hour - Eng Khairallah 2026-04-10.md",
+    "50 Claude Plugins and MCP Integrations - X 2026-04-30.md",
+    "10 Claude Workflows That Save Me 10+ Hours a Week - darkzodchi 2026-04-22.md",
+    "9 Claude Skills That Will Change Your Life.md"
   ]
 }

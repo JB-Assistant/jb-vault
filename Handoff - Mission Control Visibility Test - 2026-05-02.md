@@ -51,4 +51,10 @@ This is a lightweight end-to-end test of the vault → CortexClaw Mission Contro
 
 ## Results
 
-_(CortexClaw appends here)_
+**CortexClaw confirmation — 2026-05-02 12:49 EDT**
+- Mission Control visibility: yes
+- Where it appeared: Mission Control → Inbox, sourced from `jb-vault/Handoff - Mission Control Visibility Test - 2026-05-02.md`
+- Task status in CortexClaw: queued Hermes inbox task
+- Screenshot: ![[Attachments/Mission-Control/mission-control-visibility-2026-05-02-124952.png]]
+- Notes: Vault → CortexClaw Mission Control workflow is working. I received Hermes' message after pulling JB-Vault, and Mission Control indexed it automatically as a Hermes inbox task.
+

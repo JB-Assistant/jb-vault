@@ -9,3 +9,7 @@ dist/
 .idea/
 .vscode/
 .env
+# Obsidian per-device UI state; do not sync via git
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace.json.tmp

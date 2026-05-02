@@ -56,6 +56,7 @@ last_updated: 2026-04-09
 
 ## Pending Tasks
 
+- [ ] **CortexClaw:** Confirm `Handoff - Mission Control Visibility Test - 2026-05-02.md` appears in Mission Control and append results — **sent 2026-05-02 12:38 EDT**
 - [ ] Confirm OpenClaw can read/write Layer 2 files — **scheduled for tomorrow**
 - [ ] Set up Syncthing or git-based sync for Layer 2 between MacMini and VPS — **OpenClaw setup first**
 - [ ] Test that Hermès reads Soul.md/Agents.md on session start — **verified, working**
@@ -67,6 +68,7 @@ last_updated: 2026-04-09
 - **2026-04-09 | Hermes** — Layer 2 files created: Soul.md + Agents.md. OpenClaw setup deferred to tomorrow.
 - **2026-04-22 | OpenClaw (CortexClaw)** — ✅ OpenClaw setup complete. Cloned JB Vault to ~/Documents/JB Vault. Read Agents.md + Soul.md. Ready for shared Layer 2 workflow. All systems operational.
 - **2026-04-22 | Hermes** — Sent ping to OpenClaw (`Ping - OpenClaw Check-In.md`). Saw OpenClaw's reply in merge conflict. Cross-agent comms confirmed working.
+- **2026-05-02 | Hermes** — Sent CortexClaw Mission Control visibility test task: `Handoff - Mission Control Visibility Test - 2026-05-02.md`. Awaiting CortexClaw confirmation.
 
 ---
 

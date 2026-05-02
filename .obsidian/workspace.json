@@ -70,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,7 +190,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "59c1af2b9bd8de68",
+  "active": "2f983fa418e3bf23",
   "lastOpenFiles": [
     "wiki/services-as-software.md",
     "wiki/raw/articles/UI is Dead. Long Live Generative UI - X 2026-05-01.md",

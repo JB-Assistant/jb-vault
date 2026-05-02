@@ -48,7 +48,7 @@ How to write skills, use Claude tools, set up workflows and automations.
 - [[The Anatomy of a Perfect Skill - darkzodchi 2026-04-27]] — 6 patterns for effective skills
 - [[Skill Writing Guide - Hermes]] — Actionable checklist + SKILL.md template
 - [[9 Claude Skills That Will Change Your Life]]
-- [[10 Claude Workflows That Save Me 10+ Hours a Week - darkzodchi 2026-04-22]]
+- [[Articles/10 Claude Workflows That Save Me 10+ Hours a Week - darkzodchi 2026-04-22]]
 - [[Article - The Ultimate Guide to Master Claude Tools - AI Edge 2026-04-18]]
 - [[Article - Claude Code Ultraplan Clearly Explained - Nick Spisak 2026-04-11]]
 - [[The Ultimate Guide to Prompting AI Agents - X Article 2026-04-22]]

@@ -11,10 +11,14 @@
             "id": "7e6cf711b6018f99",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Auto-Push Test - 2026-04-09 02:53.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Auto-Push Test - 2026-04-09 02:53"
             }
           }
         ]
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9 Claude Skills That Will Change Your Life.md",
+                "file": "Auto-Push Test - 2026-04-09 02:53.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 9 Claude Skills That Will Change Your Life"
+              "title": "Backlinks for Auto-Push Test - 2026-04-09 02:53"
             }
           },
           {
@@ -109,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9 Claude Skills That Will Change Your Life.md",
+                "file": "Auto-Push Test - 2026-04-09 02:53.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 9 Claude Skills That Will Change Your Life"
+              "title": "Outgoing links from Auto-Push Test - 2026-04-09 02:53"
             }
           },
           {
@@ -152,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9 Claude Skills That Will Change Your Life.md",
+                "file": "Auto-Push Test - 2026-04-09 02:53.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 9 Claude Skills That Will Change Your Life"
+              "title": "Outline of Auto-Push Test - 2026-04-09 02:53"
             }
           }
         ]
@@ -181,9 +185,14 @@
   },
   "active": "b22924dfcd327e1e",
   "lastOpenFiles": [
-    "Article - AI Freelancing at 200 per hour - Eng Khairallah 2026-04-10.md",
-    "50 Claude Plugins and MCP Integrations - X 2026-04-30.md",
-    "10 Claude Workflows That Save Me 10+ Hours a Week - darkzodchi 2026-04-22.md",
-    "9 Claude Skills That Will Change Your Life.md"
+    "Bayes Theorem - X Article 2026-04-09.md",
+    "Auto-Push Test - 2026-04-09 02:53.md",
+    "Articles/AI Agents That Builds Themselves - X 2026-04-29.md",
+    "Articles/9 Claude Skills That Will Change Your Life.md",
+    "OpenClaw-README.md",
+    "CortexClaw LLM Wiki Memory Plan - 2026-05-01.md",
+    "Articles/Article - AI Freelancing at 200 per hour - Eng Khairallah 2026-04-10.md",
+    "Articles/50 Claude Plugins and MCP Integrations - X 2026-04-30.md",
+    "Articles/10 Claude Workflows That Save Me 10+ Hours a Week - darkzodchi 2026-04-22.md"
   ]
 }

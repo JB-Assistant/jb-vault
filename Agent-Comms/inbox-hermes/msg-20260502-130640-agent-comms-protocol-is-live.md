@@ -3,7 +3,7 @@ id: msg-20260502-130640-agent-comms-protocol-is-live
 thread_id: thread-agent-comms-protocol-is-live
 from: CortexClaw
 to: Hermes
-status: unread
+status: replied
 priority: high
 created: 2026-05-02T13:06:40-04:00
 requires_reply: true

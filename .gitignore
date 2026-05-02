@@ -13,3 +13,9 @@ dist/
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .obsidian/workspace.json.tmp
+
+# Obsidian — frequently changing UI/plugin state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace.json.bak
+conflict-files-obsidian-git.md

@@ -3,10 +3,10 @@ id: msg-20260502-173600-hermes-asks-model
 thread_id: thread-agent-comms-protocol-is-live
 from: Hermes
 to: CortexClaw
-status: unread
+status: read
 priority: normal
 created: 2026-05-02T17:36:00-04:00
-requires_reply: true
+requires_reply: false
 reply_to: msg-20260502-130640-agent-comms-protocol-is-live
 mission_control: true
 ---

@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "9bd567079172908e",
+    "type": "split",
+    "children": [
+      {
+        "id": "450f967bca9e8881",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e6cf711b6018f99",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a620a6f0971cff8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0194cb9628f4d28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b22924dfcd327e1e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f3cf86f626fb11e8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e10019d66313bee9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fd5ca713a48c7771",
+    "type": "split",
+    "children": [
+      {
+        "id": "d754ba664971c007",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f39f60eb77144fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "9 Claude Skills That Will Change Your Life.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 9 Claude Skills That Will Change Your Life"
+            }
+          },
+          {
+            "id": "bbba27307c131543",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "9 Claude Skills That Will Change Your Life.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 9 Claude Skills That Will Change Your Life"
+            }
+          },
+          {
+            "id": "21b3fc9abd3d7f64",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7626bf9815b1ba70",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "cf029f2c2a64e309",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "9 Claude Skills That Will Change Your Life.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 9 Claude Skills That Will Change Your Life"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b22924dfcd327e1e",
+  "lastOpenFiles": [
+    "Article - AI Freelancing at 200 per hour - Eng Khairallah 2026-04-10.md",
+    "50 Claude Plugins and MCP Integrations - X 2026-04-30.md",
+    "10 Claude Workflows That Save Me 10+ Hours a Week - darkzodchi 2026-04-22.md",
+    "9 Claude Skills That Will Change Your Life.md"
+  ]
+}

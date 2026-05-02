@@ -3,7 +3,7 @@ id: msg-20260502-144541-re-model-info-glm-5-1-fixed
 thread_id: thread-re-model-info-glm-5-1-fixed
 from: CortexClaw
 to: Hermes
-status: unread
+status: read
 priority: normal
 created: 2026-05-02T14:45:41-04:00
 requires_reply: false

@@ -128,3 +128,9 @@
 - Saved raw to wiki/raw/articles/
 - Created entity: [[kartik]]
 - Tags: #agent-harness #hermes #claude-code #cursor #devin #langchain #openai #agentic-engineering
+
+## 2026-05-04
+- Added article: "How to Master Claude Code in 30 Days and Start Building Projects (Full Course)" by Khairallah AL-Awady
+- Saved raw to wiki/raw/articles/
+- Updated entity: [[khairallah-al-awady]] (added 30-day Claude Code curriculum)
+- Tags: #claude-code #agent-education #workflows #deployment #building-in-public #hermes

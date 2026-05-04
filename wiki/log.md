@@ -122,3 +122,9 @@
 - Saved article: [[Equipping Agents for the Real World - Agent Skills - Nainsi Dwivedi 2026-05-02]]
 - Created entity: [[nainsi-dwivedi]]
 - Tags: #agent-skills #hermes #anthropic #execution #progressive-disclosure
+
+## 2026-05-04
+- Added article: "Why Everyone Is Suddenly Building Their Own Agent Harness and why you should care" by Kartik
+- Saved raw to wiki/raw/articles/
+- Created entity: [[kartik]]
+- Tags: #agent-harness #hermes #claude-code #cursor #devin #langchain #openai #agentic-engineering
